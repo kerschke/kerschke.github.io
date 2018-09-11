@@ -1,18 +1,10 @@
 ---
-layout: default
+layout: page
+paginate: true
+alt_title: "Welcome"
+sub_title: "What is this place?"
+introduction:
+  Great to see you stopping by! No matter for whatever reason you originally came across this website, feel free to have a look.
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+These pages contain a brief description [about me](about), my [research activities](research) -- including a list of publications, [<img src="https://cran.r-project.org/Rlogo.svg" width="25px">](https://cran.r-project.org/)-packages that I have been contributing to, as well as a selection of scientific events (conferences, workshops, hackathons, etc.), where I have actively been involved in the organization. And right below this text, you will also find something like a *news* tracker with recent activities.
