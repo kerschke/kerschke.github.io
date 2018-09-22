@@ -102,10 +102,10 @@ defaults:
     values:
       layout: post
       read_time: true
-  # _recipes
+  # _news
   - scope:
-      path: "_recipes"
-      type: recipes
+      path: "_news"
+      type: news
     values:
       layout: post
-      read_time: true
+      read_time: false
