@@ -16,7 +16,8 @@ For citation numbers, please see my [Google Scholar page](https://scholar.google
 ##### 2018 
 
 - **Kerschke, P.** & Trautmann, H. (2018). *Automated Algorithm Selection on Continuous Black-Box Problems By Combining Exploratory Landscape Analysis and Machine Learning*. In: Evolutionary Computation Journal (ECJ), MIT Press (accepted).
-- **Kerschke, P.**, Wang, H., Preuss, M., Grimme, C., Deutz, A. H., Trautmann, H. & Emmerich, M. T. M. (2018). *Search Dynamics on Multimodal Multi-Objective Problems*. In: Evolutionary Computation Journal (ECJ), MIT Press (accepted).
+- **Kerschke, P.**, Wang, H., Preuss, M., Grimme, C., Deutz, A. H., Trautmann, H. & Emmerich, M. T. M. (2018). *Search Dynamics on Multimodal Multi-Objective Problems*. In: Evolutionary Computation Journal (ECJ), MIT Press. [[Link]](https://www.mitpressjournals.org/doi/abs/10.1162/evco_a_00234) [[DOI]](https://doi.org/10.1162/evco_a_00234) [[Bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:zvFu8I0GAU8J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAW9M9lGbx-Xy6U8BbmeXmLC9F_tNNAoTl&scisf=4&ct=citation&cd=-1&hl=de)
+
 
 
 ##### 2017
@@ -67,6 +68,7 @@ For citation numbers, please see my [Google Scholar page](https://scholar.google
 
 ##### Main Author
 - [flacco]("https://github.com/kerschke/flacco")
+- [mogsa]("https://github.com/kerschke/mogsa")
 
 ##### Contributor and/or Co-Author
 - [aslib]("https://github.com/coseal/aslib-r")
@@ -96,6 +98,7 @@ For citation numbers, please see my [Google Scholar page](https://scholar.google
 
 #### Participated
 
+- [6th Heidelberg Laureate Forum (2018)](https://www.heidelberg-laureate-forum.org/event_2018/) in Heidelberg, Germany
 - [6th COSEAL Workshop (2018)](http://www.coseal.net/coseal-workshop-2018/) in Paris, France
 - [2nd International Summer School on Deep Learning (2018)](http://grammars.grlmc.com/DeepLearn2018/) in Genoa, Italy
 - [5th COSEAL Workshop (2017)](http://www.coseal.net/coseal-workshop-2017/) in Brussels, Belgium
