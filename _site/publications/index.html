@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<!--
+    Basically Basic Jekyll Theme 1.4.1
+    Copyright 2017-2018 Michael Rose - mademistakes.com | @mmistakes
+    Free for personal and commercial use under the MIT license
+    https://github.com/mmistakes/jekyll-basically-theme/blob/master/LICENSE
+-->
+<html lang="en-US" class="no-js">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+    
+    <!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Publications | A Data Scientist’s World</title>
+<meta name="generator" content="Jekyll v3.8.3" />
+<meta property="og:title" content="Publications" />
+<meta name="author" content="Pascal Kerschke" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="http://localhost:4000/publications/" />
+<meta property="og:url" content="http://localhost:4000/publications/" />
+<meta property="og:site_name" content="A Data Scientist’s World" />
+<script type="application/ld+json">
+{"url":"http://localhost:4000/publications/","headline":"Publications","author":{"@type":"Person","name":"Pascal Kerschke"},"@type":"WebPage","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  
+
+  <script>
+    /* Cut the mustard */
+    if ( 'querySelector' in document && 'addEventListener' in window ) {
+      document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + 'js';
+    }
+  </script>
+
+  <link rel="stylesheet" href="/assets/stylesheets/main.css">
+  
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira+Sans:400,400i,600,600i">
+  
+
+  
+</head>
+
+
+  <body class="layout--page publications">
+
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#primary-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+
+    <div class="sidebar-toggle-wrapper">
+      
+        <button class="search-toggle" type="button">
+          <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
+            <title>Search</title>
+            <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>
+          </svg>
+        </button>
+      
+
+      <button class="toggle navicon-button larr" type="button">
+        <span class="toggle-inner">
+          <span class="sidebar-toggle-label visually-hidden">Menu</span>
+          <span class="navicon"></span>
+        </span>
+      </button>
+    </div>
+
+    <div id="sidebar" class="sidebar">
+      <div class="inner">
+        <nav id="primary-nav" class="site-nav" itemscope itemtype="http://schema.org/SiteNavigationElement" aria-label="Main navigation">
+  <ul id="menu-main-navigation" class="menu">
+    <!-- Home link -->
+    <li class="menu-item">
+      <a href="/" itemprop="url">
+        <span itemprop="name">Home</span>
+      </a>
+    </li>
+
+    <!-- site.pages links -->
+    
+    
+
+    
+      
+      
+    
+      
+      
+        <li class="menu-item">
+          <a href="/news/" itemprop="url">
+            <span itemprop="name">News</span>
+          </a>
+        </li>
+      
+    
+      
+      
+        <li class="menu-item">
+          <a href="/publications/" itemprop="url">
+            <span itemprop="name">Publications</span>
+          </a>
+        </li>
+      
+    
+      
+      
+        <li class="menu-item">
+          <a href="/events/" itemprop="url">
+            <span itemprop="name">Events</span>
+          </a>
+        </li>
+      
+    
+      
+      
+        <li class="menu-item">
+          <a href="/imprint/" itemprop="url">
+            <span itemprop="name">Imprint</span>
+          </a>
+        </li>
+      
+    
+  </ul>
+</nav>
+
+        <ul class="contact-list">
+  
+    <li>
+      <a href="mailto:kerschke@uni-muenster.de">
+        <span class="icon icon--email"><svg xmlns="http://www.w3.org/2000/svg" viewBox="313.1 3.7 16 16"><path d="M318.5 8.9c0-.2.2-.4.4-.4h4.5c.2 0 .4.2.4.4s-.2.4-.4.4h-4.5c-.3 0-.4-.2-.4-.4zm.4 2.1h4.5c.2 0 .4-.2.4-.4s-.2-.4-.4-.4h-4.5c-.2 0-.4.2-.4.4s.1.4.4.4zm3.5 1.2c0-.2-.2-.4-.4-.4h-3.1c-.2 0-.4.2-.4.4s.2.4.4.4h3.1c.2.1.4-.1.4-.4zm-1.5-8.4l-1.7 1.4c-.2.1-.2.4 0 .6s.4.2.6 0l1.4-1.2 1.4 1.2c.2.1.4.1.6 0s.1-.4 0-.6l-1.7-1.4c-.3-.1-.5-.1-.6 0zm7.8 6.2c.1.1.1.2.1.3v7.9c0 .8-.7 1.5-1.5 1.5h-12.5c-.8 0-1.5-.7-1.5-1.5v-7.9c0-.1.1-.2.1-.3l1.6-1.3c.2-.1.4-.1.6 0s.1.4 0 .6l-1.2 1 1.8 1.3v-4c0-.6.5-1.1 1.1-1.1h7.5c.6 0 1.1.5 1.1 1.1v4l1.8-1.3-1.2-1c-.2-.1-.2-.4 0-.6s.4-.2.6 0l1.6 1.3zm-11.6 2.2l4 2.8 4-2.8V7.6c0-.1-.1-.2-.2-.2h-7.5c-.1 0-.2.1-.2.2v4.6zm10.9-1l-4.7 3.4 3.4 2.6c.2.1.2.4.1.6-.1.2-.4.2-.6.1l-3.6-2.8-1.2.8c-.1.1-.3.1-.5 0l-1.2-.8-3.6 2.8c-.2.1-.4.1-.6-.1-.1-.2-.1-.4.1-.6l3.4-2.6-4.7-3.4v7.1c0 .4.3.6.6.6h12.5c.4 0 .6-.3.6-.6v-7.1z"/></svg></span>
+        <span class="label">Email</span>
+      </a>
+    </li>
+  
+
+  
+    <li><a href="https://github.com/kerschke">
+  <span class="icon icon--github"><svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M8 0C3.58 0 0 3.582 0 8c0 3.535 2.292 6.533 5.47 7.59.4.075.547-.172.547-.385 0-.19-.007-.693-.01-1.36-2.226.483-2.695-1.073-2.695-1.073-.364-.924-.89-1.17-.89-1.17-.725-.496.056-.486.056-.486.803.056 1.225.824 1.225.824.714 1.223 1.873.87 2.33.665.072-.517.278-.87.507-1.07-1.777-.2-3.644-.888-3.644-3.953 0-.873.31-1.587.823-2.147-.09-.202-.36-1.015.07-2.117 0 0 .67-.215 2.2.82.64-.178 1.32-.266 2-.27.68.004 1.36.092 2 .27 1.52-1.035 2.19-.82 2.19-.82.43 1.102.16 1.915.08 2.117.51.56.82 1.274.82 2.147 0 3.073-1.87 3.75-3.65 3.947.28.24.54.73.54 1.48 0 1.07-.01 1.93-.01 2.19 0 .21.14.46.55.38C13.71 14.53 16 11.53 16 8c0-4.418-3.582-8-8-8"/></svg></span>
+  <span class="label">GitHub</span>
+</a>
+</li>
+  
+
+  
+
+  <li>
+    
+  </li>
+</ul>
+
+      </div>
+    </div>
+
+    <div class="canvas">
+      <div class="wrapper">
+        
+
+<header id="masthead">
+  <div class="inner">
+    <div class="title-area">
+      
+        <p class="site-title">
+          <a href="/">
+            
+            <span>A Data Scientist&#39;s World</span>
+          </a>
+        </p>
+      
+    </div>
+  </div>
+</header>
+
+        <div class="initial-content">
+          <header class="intro">
+  
+
+  <div class="inner">
+    <div class="intro-text">
+      <h1 id="page-title" class="intro-title">List of Publications
+</h1>
+      
+
+      
+
+      
+
+      
+    </div>
+  </div>
+</header>
+
+
+<main id="main" class="page-content" aria-label="Content">
+  <div class="inner">
+    <article class="entry-wrap">
+      <div class="entry-content">
+        <p>For citation numbers, please see my <a href="https://scholar.google.com/citations?user=xQKB_kEAAAAJ&amp;hl=en">Google Scholar page</a>.</p>
+
+<h3 id="journal-articles">Journal Articles</h3>
+
+<h4 id="2018">2018</h4>
+
+<ul>
+  <li><strong>Kerschke, P.</strong> &amp; Trautmann, H. (2018). <em>Automated Algorithm Selection on Continuous Black-Box Problems By Combining Exploratory Landscape Analysis and Machine Learning</em>. In: Evolutionary Computation Journal (ECJ), MIT Press (accepted).</li>
+  <li><strong>Kerschke, P.</strong>, Wang, H., Preuss, M., Grimme, C., Deutz, A. H., Trautmann, H. &amp; Emmerich, M. T. M. (2018). <em>Search Dynamics on Multimodal Multi-Objective Problems</em>. In: Evolutionary Computation Journal (ECJ), pp. 1 – 30, MIT Press. [<a href="https://www.mitpressjournals.org/doi/abs/10.1162/evco_a_00234">Link</a>] [<a href="https://doi.org/10.1162/evco_a_00234">DOI</a>] [<a href="/bibliographies/kerschke2018search.bib">BibTeX</a>]</li>
+</ul>
+
+<h4 id="2017">2017</h4>
+
+<ul>
+  <li><strong>Kerschke, P.</strong>, Kotthoff, L., Bossek, J., Hoos, H. H. &amp; Trautmann, H. (2017). <em>Leveraging TSP Solver Complementarity through Machine Learning</em>. In: Evolutionary Computation Journal (ECJ), pp. 1 – 24, MIT Press. [<a href="https://www.mitpressjournals.org/doi/abs/10.1162/evco_a_00215">Link</a>] [<a href="https://doi.org/10.1162/evco_a_00215">DOI</a>] [<a href="/bibliographies/kerschke2017leveraging.bib">BibTeX</a>]</li>
+  <li>Casalicchio, G., Bossek, J., Lang, M., Kirchhoff, D., <strong>Kerschke, P.</strong>, Hofner, B., Seibold, H., Vanschoren, J. &amp; Bischl, B. (2017). <em>OpenML: An R Package to Connect to the Machine Learning Platform OpenML</em>. In: Journal of Computational Statistics, pp. 1 – 15, Springer. [<a href="https://link.springer.com/article/10.1007/s00180-017-0742-2">Link</a>] [<a href="https://doi.org/10.1007/s00180-017-0742-2">DOI</a>] [<a href="/bibliographies/casalicchio2017openml.bib">BibTeX</a>]</li>
+</ul>
+
+<h4 id="2016">2016</h4>
+
+<ul>
+  <li>Bischl, B., <strong>Kerschke, P.</strong>, Kotthoff, L., Lindauer, T. M., Malitsky, Y., Fréchette, A., Hoos, H. H., Hutter, F., Leyton-Brown, K., Tierney, K. &amp; Vanschoren, J. (2016). <em>ASlib: A Benchmark Library for Algorithm Selection</em>. In: Artificial Intelligence Journal (AIJ), pp. 41 – 58, Elsevier. [<a href="https://www.sciencedirect.com/science/article/pii/S0004370216300388">Link</a>] [<a href="https://doi.org/10.1016/j.artint.2016.04.003">DOI</a>] [<a href="/bibliographies/bischl2016aslib.bib">BibTeX</a>]</li>
+  <li>Liboschik, T., <strong>Kerschke, P.</strong>, Fokianos, K. &amp; Fried, R. (2016). <em>Modelling Interventions in INGARCH processes</em>. In: International Journal of Computer Mathematics, pp. 640 – 657, Taylor &amp; Francis. [<a href="https://www.tandfonline.com/doi/abs/10.1080/00207160.2014.949250">Link</a>] [<a href="https://doi.org/10.1080/00207160.2014.949250">DOI</a>] [<a href="/bibliographies/liboschik2016modelling.bib">BibTeX</a>]</li>
+</ul>
+
+<p> </p>
+<h3 id="book-chapters">Book Chapters</h3>
+
+<h4 id="2014">2014</h4>
+
+<ul>
+  <li><strong>Kerschke, P.</strong>, Preuss, M., Hernández, C., Schütze, O., Sun, J.-Q., Grimme, C., Rudolph, G., Bischl, B. &amp; Trautmann, H. (2014). <em>Cell Mapping Techniques for Exploratory Landscape Analysis</em>. In: EVOLVE - A Bridge between Probability, Set Oriented Numerics and Evolutionary Computation (EVOLVE 2014), pp. 115 – 131, Springer. [<a href="https://link.springer.com/chapter/10.1007/978-3-319-07494-8_9">Link</a>] [<a href="https://doi.org/10.1007/978-3-319-07494-8_9">DOI</a>] [<a href="/bibliographies/kerschke2014cellmapping.bib">BibTeX</a>]</li>
+</ul>
+
+<p> </p>
+<h3 id="conference-articles-peer-reviewed">Conference Articles (Peer Reviewed)</h3>
+
+<h4 id="2018-1">2018</h4>
+
+<ul>
+  <li>Grimme, C., <strong>Kerschke, P.</strong>, Emmerich, M. T. M., Preuss, M., Deutz, A. H. &amp; Trautmann, H. (2018). <em>Sliding to the Global Optimum: How to Benefit from Non-Global Optima in Multimodal Multi-Objective Optimization</em>. In: Proceedings of the International Global Optimization Workshop (LeGO 2018). (accepted)</li>
+  <li><strong>Kerschke, P.</strong>, Bossek, J. &amp; Trautmann, H. (2018). <em>Parameterization of State-of-the-Art Performance Indicators: A Robustness Study Based on Inexact TSP Solvers</em>. In: Proceedings of the 20th Annual Conference on Genetic and Evolutionary Computation (GECCO) Companion, pp. 1737 – 1744, ACM. [<a href="https://dl.acm.org/citation.cfm?id=3205651.3208233">Link</a>] [<a href="https://doi.org/10.1145/3205651.3208233">DOI</a>] [<a href="/bibliographies/kerschke2018parametrization.bib">BibTeX</a>]</li>
+</ul>
+
+<h4 id="2017-1">2017</h4>
+
+<ul>
+  <li>Hanster, C. &amp; <strong>Kerschke, P.</strong> (2017). <em>flaccogui: Exploratory Landscape Analysis for Everyone</em>. In: Proceedings of the 19th Annual Conference on Genetic and Evolutionary Computation (GECCO) Companion, pp. 1215 – 1222, ACM. [<a href="https://dl.acm.org/citation.cfm?doid=3067695.3082477">Link</a>] [<a href="https://doi.org/10.1145/3067695.3082477">DOI</a>] [<a href="/bibliographies/hanster2017flaccogui.bib">BibTeX</a>]</li>
+  <li><strong>Kerschke, P.</strong> &amp; Grimme, C. (2017). <em>An Expedition to Multimodal Multi-Objective Optimization Landscapes</em>. In: Proceedings of the 9th International Conference on Evolutionary Multi-Criterion Optimization (EMO), pp. 329 – 343, Springer. [<a href="https://link.springer.com/chapter/10.1007/978-3-319-54157-0_23">Link</a>] [<a href="https://doi.org/10.1007/978-3-319-54157-0_23">DOI</a>] [<a href="/bibliographies/kerschke2017expedition.bib">BibTeX</a>]</li>
+</ul>
+
+<h4 id="2016-1">2016</h4>
+
+<ul>
+  <li><strong>Kerschke, P.</strong>, Wang, H., Preuss, M., Grimme, C., Deutz, A. H., Trautmann, H. &amp; Emmerich, T. M. M. (2016). <em>Towards Analyzing Multimodality of Multiobjective Landscapes</em>. In: Proceedings of the 14th International Conference on Parallel Problem Solving from Nature (PPSN), pp. 962 – 972, Springer. <a href="http://www.ppsn2016.org/conference/awards"><strong>Best Paper Award</strong></a> [<a href="https://link.springer.com/chapter/10.1007/978-3-319-45823-6_90">Link</a>] [<a href="https://doi.org/10.1007/978-3-319-45823-6_90">DOI</a>] [<a href="/bibliographies/kerschke2016towards.bib">BibTeX</a>]</li>
+  <li><strong>Kerschke, P.</strong> &amp; Trautmann, H. (2016). <em>The R-Package FLACCO for Exploratory Landscape Analysis with Applications to Multi-Objective Optimization Problems</em>. In: 2016 IEEE Congress on Evolutionary Computation (CEC), pp. 5262 – 5269, IEEE. [<a href="https://ieeexplore.ieee.org/document/7748359/">Link</a>] [<a href="https://doi.org/10.1109/CEC.2016.7748359">DOI</a>] [<a href="/bibliographies/kerschke2016flacco.bib">BibTeX</a>]</li>
+  <li><strong>Kerschke, P.</strong>, Preuss, M., Wessing, S. &amp; Trautmann, H. (2016). <em>Low-Budget Exploratory Landscape Analysis on Multiple Peaks Models</em>. In: Proceedings of the 18th Annual Conference on Genetic and Evolutionary Computation (GECCO), pp. 229 – 236, ACM. [<a href="https://dl.acm.org/citation.cfm?id=2908845">Link</a>] [<a href="https://doi.org/10.1145/2908812.2908845">DOI</a>] [<a href="/bibliographies/kerschke2016lowbudget.bib">BibTeX</a>]</li>
+</ul>
+
+<h4 id="2015">2015</h4>
+
+<ul>
+  <li><strong>Kerschke, P.</strong>, Preuss, M., Wessing, S. &amp; Trautmann, H. (2015). <em>Detecting Funnel Structures by Means of Exploratory Landscape Analysis</em>. In: Proceedings of the 17th Annual Conference on Genetic and Evolutionary Computation (GECCO), pp. 265 – 272, ACM. [<a href="https://dl.acm.org/citation.cfm?doid=2739480.2754642">Link</a>] [<a href="https://doi.org/10.1145/2739480.2754642">DOI</a>] [<a href="/bibliographies/kerschke2015funnel.bib">BibTeX</a>]</li>
+  <li>Martí, L., Grimme, C., <strong>Kerschke, P.</strong>, Trautmann, H. &amp; Rudolph, G. (2015). <em>Averaged Hausdorff Approximations of Pareto Fronts based on Multiobjective Estimation of Distribution Algorithms</em>. In: Proceedings of the 17th Annual Conference on Genetic and Evolutionary Computation (GECCO) Companion, pp. 1427 – 1428, ACM. [<a href="https://dl.acm.org/citation.cfm?doid=2739482.2764631">Link</a>] [<a href="10.1145/2739482.2764631">DOI</a>] [<a href="/bibliographies/marti2015average.bib">BibTeX</a>] [<a href="https://arxiv.org/pdf/1503.07845.pdf">arXiv</a>]</li>
+  <li>Chinnov, A., Meske, C., <strong>Kerschke, P.</strong>, Stieglitz, S., &amp; Trautmann, H. (2015). <em>An Overview of Topic Discovery in Twitter Communication through Social Media Analytics.</em> In: Proceedings of the 20th Americas Conference on Information Systems (AMCIS), Association for Information Systems. [<a href="https://aisel.aisnet.org/amcis2015/SocialComputing/GeneralPresentations/5/">Link</a>] [<a href="/bibliographies/chinnov2015topic.bib">BibTeX</a>]</li>
+  <li>Kotthoff, L., <strong>Kerschke, P.</strong>, Hoos, H. H. &amp; Trautmann, H. (2015). <em>Improving the State of the Art in Inexact TSP Solving using Per-Instance Algorithm Selection</em>. In: Learning and Intelligent OptimizatioN 9 (LION), pp. 202 – 217, Springer. [<a href="https://link.springer.com/chapter/10.1007/978-3-319-19084-6_18">Link</a>] [<a href="https://doi.org/10.1007/978-3-319-19084-6_18">DOI</a>] [<a href="/bibliographies/kotthoff2015improving.bib">BibTeX</a>]</li>
+</ul>
+
+<p> </p>
+<h3 id="phd-thesis">PhD Thesis</h3>
+
+<ul>
+  <li><strong>Kerschke, P.</strong> (2017). <em>Automated and Feature-Based Problem Characterization and Algorithm Selection Through Machine Learning</em>. PhD Thesis at the Department of Information Systems, University of Münster, Germany. [<a href="http://nbn-resolving.de/urn:nbn:de:hbz:6-39169612241">Link</a>] [<a href="/bibliographies/kerschke2017thesis.bib">BibTeX</a>]</li>
+</ul>
+
+<p> </p>
+<h3 id="r-packages">R-Packages</h3>
+
+<h4 id="main-author">Main Author</h4>
+<ul>
+  <li><a href="&quot;https://github.com/kerschke/flacco&quot;">flacco</a></li>
+  <li><a href="&quot;https://github.com/kerschke/mogsa&quot;">mogsa</a></li>
+</ul>
+
+<h4 id="contributor-andor-co-author">Contributor and/or Co-Author</h4>
+<ul>
+  <li><a href="&quot;https://github.com/coseal/aslib-r&quot;">aslib</a></li>
+  <li><a href="&quot;https://github.com/mlr-org/mlr&quot;">mlr</a></li>
+  <li><a href="&quot;https://github.com/openml/openml-r&quot;">OpenML</a></li>
+  <li><a href="&quot;https://github.com/berndbischl/ParamHelpers&quot;">ParamHelpers</a></li>
+  <li><a href="&quot;https://github.com/jakobbossek/salesperson&quot;">salesperson</a></li>
+  <li><a href="&quot;https://github.com/jakobbossek/smoof&quot;">smoof</a></li>
+</ul>
+
+      </div>
+    </article>
+  </div>
+</main>
+
+        </div>
+
+        <div class="search-content">
+          <div class="inner">
+  <label class="visually-hidden" for="search">Site Search</label>
+        <input type="text" id="search" class="search-input" aria-describedby="results-count" tabindex="-1" placeholder="Enter your search term..." />
+        <div id="results" class="results"></div>
+</div>
+
+        </div>
+      </div>
+    </div>
+
+    <footer id="footer" class="site-footer">
+  <div class="inner">
+    <div class="copyright">
+      
+        <p>&copy; 2018 A Data Scientist's World.</p>
+      
+    </div>
+  </div>
+</footer>
+
+    
+
+<script async src="/assets/javascripts/main.js"></script>
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+  <script src="http://localhost:4000/assets/javascripts/lunr/lunr.min.js"></script>
+  <script src="http://localhost:4000/assets/javascripts/search-data.json"></script>
+  <script>
+    var idx = lunr(function () {
+      
+      // the, the normal lunr index initialization
+      this.field('title')
+      this.field('excerpt')
+      this.field('categories')
+      this.field('tags')
+      this.ref('id')
+
+      this.pipeline.remove(lunr.trimmer)
+
+      // add documents to index
+      for (var item in store) {
+        this.add({
+          title: store[item].title,
+          excerpt: store[item].excerpt,
+          categories: store[item].categories,
+          tags: store[item].tags,
+          id: item
+        })
+      }
+    });
+
+    console.log(jQuery.type(idx));
+
+    $(document).ready(function () {
+      $('input#search').on('keyup', function () {
+        var resultdiv = $('#results');
+        var query = $(this).val().toLowerCase();
+        var result =
+          idx.query(function (q) {
+            query.split(lunr.tokenizer.separator).forEach(function (term) {
+              q.term(term, { boost: 100 })
+              if (query.lastIndexOf(" ") != query.length - 1) {
+                q.term(term, { usePipeline: false, wildcard: lunr.Query.wildcard.TRAILING, boost: 10 })
+              }
+              if (term != "") {
+                q.term(term, { usePipeline: false, editDistance: 1, boost: 1 })
+              }
+            })
+          });
+        resultdiv.empty();
+        resultdiv.prepend('<p id="results-count" class="results-found">' + result.length + ' Result(s) found</p>');
+        for (var item in result) {
+          var ref = result[item].ref;
+          var searchitem =
+            '<article class="entry">' +
+              '<h3 class="entry-title">' +
+                '<a href="' + store[ref].url + '">' + store[ref].title + '</a>' +
+              '</h3>' +
+              '<div class="entry-excerpt">' +
+                '<p>' + store[ref].excerpt.split(" ").splice(0, 20).join(" ") + '...</p>' +
+              '</div>' +
+            '</article>';
+          resultdiv.append(searchitem);
+        }
+      });
+    });
+  </script>
+
+
+
+  </body>
+
+</html>
