@@ -91,21 +91,22 @@ paginate_path: /page:num/
 collections:
   recipes:
     output: true
-    permalink: /:collection/:path/
-
+    permalink: /research/:categories/:title/
+    
 # Front Matter Defaults
 defaults:
-  # _posts
+  # _news
   - scope:
-      path: "_posts"
+      path: "news/_posts"
       type: posts
     values:
       layout: post
-      read_time: true
-  # _news
+      read_time: false
+  # _recipes
   - scope:
-      path: "_news"
-      type: news
+      path: "_recipes"
+  #    path: "research/_topics"
+      type: recipes
     values:
       layout: post
       read_time: false

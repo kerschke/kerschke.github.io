@@ -18,7 +18,8 @@ t:
   email: "Email"
   subscribe: "Subscribe"
   read_more: "Read More"
-  posts: "Posts"
+#  posts: "Posts"
+  posts: "News"
   page: "Page"
   of: "of"
   min_read: "min read"
@@ -35,8 +36,8 @@ google_fonts:
 
 navigation_pages:
   - about.md
-  - posts.md
+  - news.md
+  #- research.md
   - publications.md
   - events.md
-#  - research.md
   - imprint.md

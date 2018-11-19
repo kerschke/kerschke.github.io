@@ -13,26 +13,19 @@ For citation numbers, please see my [Google Scholar page](https://scholar.google
 
 #### 2018 
 
-- **Kerschke, P.** & Trautmann, H. (2018). *Automated Algorithm Selection on Continuous Black-Box Problems By Combining Exploratory Landscape Analysis and Machine Learning*. In: Evolutionary Computation Journal (ECJ), MIT Press (accepted).
-- **Kerschke, P.**, Wang, H., Preuss, M., Grimme, C., Deutz, A. H., Trautmann, H. & Emmerich, M. T. M. (2018). *Search Dynamics on Multimodal Multi-Objective Problems*. In: Evolutionary Computation Journal (ECJ), pp. 1 – 30, MIT Press. [[Link](https://www.mitpressjournals.org/doi/abs/10.1162/evco_a_00234)] [[DOI](https://doi.org/10.1162/evco_a_00234)] [[BibTeX](/bibliographies/kerschke2018search.bib)]
+- **Kerschke, P.**, Hoos, H. H., Neumann, F. & Trautmann, H. (2018). *Automated Algorithm Selection: Survey and Perspectives*. In: Evolutionary Computation (ECJ), MIT Press (accepted).
+- **Kerschke, P.** & Trautmann, H. (2018). *Automated Algorithm Selection on Continuous Black-Box Problems By Combining Exploratory Landscape Analysis and Machine Learning*. In: Evolutionary Computation (ECJ), pp. 1 - 28, MIT Press [[Link](https://www.mitpressjournals.org/doi/abs/10.1162/evco_a_00236)] [[DOI](https://doi.org/10.1162/evco_a_00236)] [[BibTeX](/bibliographies/kerschke2018automatedAS.bib)]
+- **Kerschke, P.**, Wang, H., Preuss, M., Grimme, C., Deutz, A. H., Trautmann, H. & Emmerich, M. T. M. (2018). *Search Dynamics on Multimodal Multi-Objective Problems*. In: Evolutionary Computation (ECJ), pp. 1 – 30, MIT Press. [[Link](https://www.mitpressjournals.org/doi/abs/10.1162/evco_a_00234)] [[DOI](https://doi.org/10.1162/evco_a_00234)] [[BibTeX](/bibliographies/kerschke2018search.bib)]
 
 #### 2017
 
-- **Kerschke, P.**, Kotthoff, L., Bossek, J., Hoos, H. H. & Trautmann, H. (2017). *Leveraging TSP Solver Complementarity through Machine Learning*. In: Evolutionary Computation Journal (ECJ), pp. 1 – 24, MIT Press. [[Link](https://www.mitpressjournals.org/doi/abs/10.1162/evco_a_00215)] [[DOI](https://doi.org/10.1162/evco_a_00215)] [[BibTeX](/bibliographies/kerschke2017leveraging.bib)]
-- Casalicchio, G., Bossek, J., Lang, M., Kirchhoff, D., **Kerschke, P.**, Hofner, B., Seibold, H., Vanschoren, J. & Bischl, B. (2017). *OpenML: An R Package to Connect to the Machine Learning Platform OpenML*. In: Journal of Computational Statistics, pp. 1 – 15, Springer. [[Link](https://link.springer.com/article/10.1007/s00180-017-0742-2)] [[DOI](https://doi.org/10.1007/s00180-017-0742-2)] [[BibTeX](/bibliographies/casalicchio2017openml.bib)]
+- **Kerschke, P.**, Kotthoff, L., Bossek, J., Hoos, H. H. & Trautmann, H. (2017). *Leveraging TSP Solver Complementarity through Machine Learning*. In: Evolutionary Computation (ECJ), pp. 1 – 24, MIT Press. [[Link](https://www.mitpressjournals.org/doi/abs/10.1162/evco_a_00215)] [[DOI](https://doi.org/10.1162/evco_a_00215)] [[BibTeX](/bibliographies/kerschke2017leveraging.bib)]
+- Casalicchio, G., Bossek, J., Lang, M., Kirchhoff, D., **Kerschke, P.**, Hofner, B., Seibold, H., Vanschoren, J. & Bischl, B. (2017). *OpenML: An R Package to Connect to the Machine Learning Platform OpenML*. In: Computational Statistics, pp. 1 – 15, Springer. [[Link](https://link.springer.com/article/10.1007/s00180-017-0742-2)] [[DOI](https://doi.org/10.1007/s00180-017-0742-2)] [[BibTeX](/bibliographies/casalicchio2017openml.bib)]
 
 #### 2016
 
-- Bischl, B., **Kerschke, P.**, Kotthoff, L., Lindauer, T. M., Malitsky, Y., Fréchette, A., Hoos, H. H., Hutter, F., Leyton-Brown, K., Tierney, K. & Vanschoren, J. (2016). *ASlib: A Benchmark Library for Algorithm Selection*. In: Artificial Intelligence Journal (AIJ), pp. 41 – 58, Elsevier. [[Link](https://www.sciencedirect.com/science/article/pii/S0004370216300388)] [[DOI](https://doi.org/10.1016/j.artint.2016.04.003)] [[BibTeX](/bibliographies/bischl2016aslib.bib)]
+- Bischl, B., **Kerschke, P.**, Kotthoff, L., Lindauer, T. M., Malitsky, Y., Fréchette, A., Hoos, H. H., Hutter, F., Leyton-Brown, K., Tierney, K. & Vanschoren, J. (2016). *ASlib: A Benchmark Library for Algorithm Selection*. In: Artificial Intelligence (AIJ), pp. 41 – 58, Elsevier. [[Link](https://www.sciencedirect.com/science/article/pii/S0004370216300388)] [[DOI](https://doi.org/10.1016/j.artint.2016.04.003)] [[BibTeX](/bibliographies/bischl2016aslib.bib)]
 - Liboschik, T., **Kerschke, P.**, Fokianos, K. & Fried, R. (2016). *Modelling Interventions in INGARCH processes*. In: International Journal of Computer Mathematics, pp. 640 – 657, Taylor & Francis. [[Link](https://www.tandfonline.com/doi/abs/10.1080/00207160.2014.949250)] [[DOI](https://doi.org/10.1080/00207160.2014.949250)] [[BibTeX](/bibliographies/liboschik2016modelling.bib)]
-
-
-&nbsp;
-### Book Chapters
-
-#### 2014
-
-- **Kerschke, P.**, Preuss, M., Hernández, C., Schütze, O., Sun, J.-Q., Grimme, C., Rudolph, G., Bischl, B. & Trautmann, H. (2014). *Cell Mapping Techniques for Exploratory Landscape Analysis*. In: EVOLVE - A Bridge between Probability, Set Oriented Numerics and Evolutionary Computation (EVOLVE 2014), pp. 115 – 131, Springer. [[Link](https://link.springer.com/chapter/10.1007/978-3-319-07494-8_9)] [[DOI](https://doi.org/10.1007/978-3-319-07494-8_9)] [[BibTeX](/bibliographies/kerschke2014cellmapping.bib)]
 
 
 &nbsp;
@@ -60,6 +53,10 @@ For citation numbers, please see my [Google Scholar page](https://scholar.google
 - Martí, L., Grimme, C., **Kerschke, P.**, Trautmann, H. & Rudolph, G. (2015). *Averaged Hausdorff Approximations of Pareto Fronts based on Multiobjective Estimation of Distribution Algorithms*. In: Proceedings of the 17th Annual Conference on Genetic and Evolutionary Computation (GECCO) Companion, pp. 1427 – 1428, ACM. [[Link](https://dl.acm.org/citation.cfm?doid=2739482.2764631)] [[DOI](10.1145/2739482.2764631)] [[BibTeX](/bibliographies/marti2015average.bib)] [[arXiv](https://arxiv.org/pdf/1503.07845.pdf)]
 - Chinnov, A., Meske, C., **Kerschke, P.**, Stieglitz, S., & Trautmann, H. (2015). *An Overview of Topic Discovery in Twitter Communication through Social Media Analytics.* In: Proceedings of the 20th Americas Conference on Information Systems (AMCIS), Association for Information Systems. [[Link](https://aisel.aisnet.org/amcis2015/SocialComputing/GeneralPresentations/5/)] [[BibTeX](/bibliographies/chinnov2015topic.bib)]
 - Kotthoff, L., **Kerschke, P.**, Hoos, H. H. & Trautmann, H. (2015). *Improving the State of the Art in Inexact TSP Solving using Per-Instance Algorithm Selection*. In: Learning and Intelligent OptimizatioN 9 (LION), pp. 202 – 217, Springer. [[Link](https://link.springer.com/chapter/10.1007/978-3-319-19084-6_18)] [[DOI](https://doi.org/10.1007/978-3-319-19084-6_18)] [[BibTeX](/bibliographies/kotthoff2015improving.bib)]
+
+#### 2014
+
+- **Kerschke, P.**, Preuss, M., Hernández, C., Schütze, O., Sun, J.-Q., Grimme, C., Rudolph, G., Bischl, B. & Trautmann, H. (2014). *Cell Mapping Techniques for Exploratory Landscape Analysis*. In: EVOLVE - A Bridge between Probability, Set Oriented Numerics and Evolutionary Computation (EVOLVE 2014), pp. 115 – 131, Springer. [[Link](https://link.springer.com/chapter/10.1007/978-3-319-07494-8_9)] [[DOI](https://doi.org/10.1007/978-3-319-07494-8_9)] [[BibTeX](/bibliographies/kerschke2014cellmapping.bib)]
 
 
 &nbsp;
