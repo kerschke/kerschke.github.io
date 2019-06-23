@@ -9,17 +9,22 @@ paginate: true
 
 ### Involved in the Organization
 
+
 #### Conferences
 - [9th International Conference on Evolutionary Multi-Criterion Optimization (EMO 2017)](http://www.emo2017.org/) in Münster, Germany (Co-Chair Local Organization)
 
 
 #### Tutorials
+- [Specialized Tutorial on "Exploratory Landscape Analysis"](https://gecco-2019.sigevo.org/index.html/Tutorials#id_Exploratory%20Landscape%20Analysis) at GECCO 2019 in Prague, Czech Republic (Co-Organizer)
 - [Tutorial on "Exploratory Landscape Analysis"](http://ppsn2018.dei.uc.pt/index.php/tutorials/) at PPSN XV in Coimbra, Portugal (Co-Organizer)
 - [Advanced Tutorial on "Exploratory Landscape Analysis"](http://gecco-2017.sigevo.org/index.html/Tutorials#id_Exploratory%20Landscape%20Analysis) at GECCO 2017 in Berlin, Germany (Co-Organizer)
 
 
 #### Workshops
+- [Workshop on "Understanding Machine Learning Optimization Problems (UMLOP)"](https://gecco-2019.sigevo.org/index.html/Workshops#id_Understanding%20Machine%20Learning%20Optimization%20Problems%20(UMLOP)) at GECCO 2019 in Prague, Czech Republic (Co-Organizer)
+- [Workshop on "Game-Benchmark for Evolutionary Algorithms (GBEA)"](https://gecco-2019.sigevo.org/index.html/Workshops#id_Game-Benchmark%20for%20Evolutionary%20Algorithms%20(GBEA)) at GECCO 2019 in Prague, Czech Republic (Co-Organizer)
 - [Workshop on "Investigating Optimization Problems from Machine Learning and Data Analysis"](https://sites.google.com/view/optml-ppsn18/home) (2018) at PPSN XV in Coimbra, Portugal (Co-Organizer)
+- [Workshop on "Game-Benchmark for Evolutionary Algorithms (GBEA)"](http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Workshops#id_Game-Benchmark%20%20%20for%20%20%20Evolutionary%20%20%20Algorithms) at GECCO 2018 in Kyoto, Japan (Co-Organizer)
 - [1st COSEAL Workshop 2013](http://www.coseal.net/coseal-workshop-2013/) in Münster, Germany (Member of the Local Organization Team)
 
 

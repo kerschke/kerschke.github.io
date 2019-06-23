@@ -11,15 +11,19 @@ For citation numbers, please see my [Google Scholar page](https://scholar.google
 
 ### Journal Articles
 
+#### 2019 
+
+- **Kerschke, P.**, Hoos, H. H., Neumann, F. & Trautmann, H. (2019). *Automated Algorithm Selection: Survey and Perspectives*. In: Evolutionary Computation (ECJ), pp. 3 - 45, MIT Press. [[Link](https://www.mitpressjournals.org/doi/full/10.1162/evco_a_00242)] [[DOI](https://doi.org/10.1162/evco_a_00242)] [[BibTeX](/bibliographies/kerschke2019survey.bib)]
+- **Kerschke, P.** & Trautmann, H. (2019). *Automated Algorithm Selection on Continuous Black-Box Problems By Combining Exploratory Landscape Analysis and Machine Learning*. In: Evolutionary Computation (ECJ), pp. 99 - 127, MIT Press. [[Link](https://www.mitpressjournals.org/doi/full/10.1162/evco_a_00236)] [[DOI](https://doi.org/10.1162/evco_a_00236)] [[BibTeX](/bibliographies/kerschke2019automatedAS.bib)]
+
 #### 2018 
 
-- **Kerschke, P.**, Hoos, H. H., Neumann, F. & Trautmann, H. (2018). *Automated Algorithm Selection: Survey and Perspectives*. In: Evolutionary Computation (ECJ), MIT Press (accepted).
-- **Kerschke, P.** & Trautmann, H. (2018). *Automated Algorithm Selection on Continuous Black-Box Problems By Combining Exploratory Landscape Analysis and Machine Learning*. In: Evolutionary Computation (ECJ), pp. 1 - 28, MIT Press [[Link](https://www.mitpressjournals.org/doi/abs/10.1162/evco_a_00236)] [[DOI](https://doi.org/10.1162/evco_a_00236)] [[BibTeX](/bibliographies/kerschke2018automatedAS.bib)]
 - **Kerschke, P.**, Wang, H., Preuss, M., Grimme, C., Deutz, A. H., Trautmann, H. & Emmerich, M. T. M. (2018). *Search Dynamics on Multimodal Multi-Objective Problems*. In: Evolutionary Computation (ECJ), pp. 1 – 30, MIT Press. [[Link](https://www.mitpressjournals.org/doi/abs/10.1162/evco_a_00234)] [[DOI](https://doi.org/10.1162/evco_a_00234)] [[BibTeX](/bibliographies/kerschke2018search.bib)]
+- **Kerschke, P.**, Kotthoff, L., Bossek, J., Hoos, H. H. & Trautmann, H. (2018). *Leveraging TSP Solver Complementarity through Machine Learning*. In: Evolutionary Computation (ECJ), pp. 597 – 620, MIT Press. [[Link](https://www.mitpressjournals.org/doi/full/10.1162/evco_a_00215)] [[DOI](https://doi.org/10.1162/evco_a_00215)] [[BibTeX](/bibliographies/kerschke2018leveraging.bib)]
+
 
 #### 2017
 
-- **Kerschke, P.**, Kotthoff, L., Bossek, J., Hoos, H. H. & Trautmann, H. (2017). *Leveraging TSP Solver Complementarity through Machine Learning*. In: Evolutionary Computation (ECJ), pp. 1 – 24, MIT Press. [[Link](https://www.mitpressjournals.org/doi/abs/10.1162/evco_a_00215)] [[DOI](https://doi.org/10.1162/evco_a_00215)] [[BibTeX](/bibliographies/kerschke2017leveraging.bib)]
 - Casalicchio, G., Bossek, J., Lang, M., Kirchhoff, D., **Kerschke, P.**, Hofner, B., Seibold, H., Vanschoren, J. & Bischl, B. (2017). *OpenML: An R Package to Connect to the Machine Learning Platform OpenML*. In: Computational Statistics, pp. 1 – 15, Springer. [[Link](https://link.springer.com/article/10.1007/s00180-017-0742-2)] [[DOI](https://doi.org/10.1007/s00180-017-0742-2)] [[BibTeX](/bibliographies/casalicchio2017openml.bib)]
 
 #### 2016
@@ -31,9 +35,19 @@ For citation numbers, please see my [Google Scholar page](https://scholar.google
 &nbsp;
 ### Conference Articles (Peer Reviewed)
 
+#### 2019
+
+- Bossek, J., **Kerschke, P.**, Neumann, A., Wagner, M., Neumann, F. & Trautmann, H. (2019). *Evolving Diverse TSP Instances by Means of Novel and Creative Mutation Operators*. In: Proceedings of the 15th ACM/SIGEVO Workshop on Foundations of Genetic Algorithms (FOGA XV), ACM (accepted). [[DOI](https://doi.org/10.1145/3299904.3340307)] [[BibTeX](/bibliographies/bossek2019evolving.bib)]
+- Doerr, C., Dreo, J. & **Kerschke, P.** (2019). *Making a Case for (Hyper-)Parameter Tuning as Benchmark Problems*. In: Proceedings of the 21st Annual Conference on Genetic and Evolutionary Computation (GECCO) Companion, ACM (accepted). [[DOI](https://doi.org/10.1145/3319619.3326857)] [[BibTeX](/bibliographies/doerr2019hyperparameter.bib)]
+- Grimme, C., **Kerschke, P.**, Emmerich, M. T. M., Preuss, M., Deutz, A. H. & Trautmann, H. (2019). *Sliding to the Global Optimum: How to Benefit from Non-Global Optima in Multimodal Multi-Objective Optimization*. In: Proceedings of the International Global Optimization Workshop (LeGO 2018), pp. 020052-1 - 020052-4, AIP Conference Proceedings. [[Link](https://doi.org/10.1063/1.5090019)] [[DOI](https://doi.org/10.1063/1.5090019)] [[BibTeX](/bibliographies/grimme2019lego.bib)]
+- Grimme, C., **Kerschke, P.** & Trautmann, H. (2019). *Multimodality in Multi-Objective Optimization - More Boon than Bane?*. In: Proceedings of the 10th International Conference on Evolutionary Multi-Criterion Optimization (EMO), pp. 126 - 138, Springer. [[Link](https://link.springer.com/chapter/10.1007/978-3-030-12598-1_11)] [[DOI](10.1007/978-3-030-12598-1_11)] [[BibTeX](/bibliographies/grimme2019boon.bib)]
+- **Kerschke, P.** & Preuss, M. (2019). *Exploratory Landscape Analysis (Specialized Tutorial)*. In: Proceedings of the 21st Annual Conference on Genetic and Evolutionary Computation (GECCO) Companion, ACM (accepted). [[DOI](https://doi.org/10.1145/3319619.3323389)] [[BibTeX](/bibliographies/kerschke2019ela.bib)]
+- Rapin, J., Gallagher, M., **Kerschke, P.**, Preuss, M. & Teytaud, O. (2019). *Exploring the MLDA Benchmark on the Nevergrad Platform*. In: Proceedings of the 21st Annual Conference on Genetic and Evolutionary Computation (GECCO) Companion, ACM (accepted). [[DOI](https://doi.org/10.1145/3319619.3326830)] [[BibTeX](/bibliographies/rapin2019mlda.bib)]
+- Volz, V., Naujoks, B., **Kerschke, P.** & Tusar, T. (2019). *Single- and Multi-Objective Game-Benchmarkfor Evolutionary Algorithms*. In: Proceedings of the 21st Annual Conference on Genetic and Evolutionary Computation (GECCO), ACM (accepted). [[DOI](https://doi.org/10.1145/3321707.3321805)] [[BibTeX](/bibliographies/volz2019gbea.bib)]
+
+
 #### 2018 
 
-- Grimme, C., **Kerschke, P.**, Emmerich, M. T. M., Preuss, M., Deutz, A. H. & Trautmann, H. (2018). *Sliding to the Global Optimum: How to Benefit from Non-Global Optima in Multimodal Multi-Objective Optimization*. In: Proceedings of the International Global Optimization Workshop (LeGO 2018). (accepted)
 - **Kerschke, P.**, Bossek, J. & Trautmann, H. (2018). *Parameterization of State-of-the-Art Performance Indicators: A Robustness Study Based on Inexact TSP Solvers*. In: Proceedings of the 20th Annual Conference on Genetic and Evolutionary Computation (GECCO) Companion, pp. 1737 – 1744, ACM. [[Link](https://dl.acm.org/citation.cfm?id=3205651.3208233)] [[DOI](https://doi.org/10.1145/3205651.3208233)] [[BibTeX](/bibliographies/kerschke2018parametrization.bib)]
 
 #### 2017
@@ -79,3 +93,4 @@ For citation numbers, please see my [Google Scholar page](https://scholar.google
 - [ParamHelpers]("https://github.com/berndbischl/ParamHelpers")
 - [salesperson]("https://github.com/jakobbossek/salesperson")
 - [smoof]("https://github.com/jakobbossek/smoof")
+- [tspgen]("https://github.com/jakobbossek/tspgen")

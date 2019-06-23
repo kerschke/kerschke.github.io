@@ -53,5 +53,6 @@ Of course, data science is of high importance and interest for several applicati
 - Multi-Objective Optimization
 - Discrete Optimization (mainly TSP)
 - Evolutionary Computation
+- Benchmarking
 
 <!--- For further details on my [research activities](research), please have a look at the respective pages. --->
