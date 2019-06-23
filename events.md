@@ -30,7 +30,7 @@ paginate: true
 
 &nbsp;
 
-### Participant
+### Scientific Collaborations
 
 - [6th Heidelberg Laureate Forum (2018)](https://www.heidelberg-laureate-forum.org/event_2018/) in Heidelberg, Germany
 - [6th COSEAL Workshop (2018)](http://www.coseal.net/coseal-workshop-2018/) in Paris, France
