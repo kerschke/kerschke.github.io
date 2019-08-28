@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!--
-    Basically Basic Jekyll Theme 1.4.2
+    Basically Basic Jekyll Theme 1.4.4
     Copyright 2017-2018 Michael Rose - mademistakes.com | @mmistakes
     Free for personal and commercial use under the MIT license
     https://github.com/mmistakes/jekyll-theme-basically-basic/blob/master/LICENSE
@@ -1633,7 +1633,7 @@ NDc6NTIrMDA6MDDajXGaAAAAAElFTkSuQmCC" />
 
 <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
   <script src="http://localhost:4000/assets/javascripts/lunr/lunr.min.js"></script>
-  <script src="http://localhost:4000/assets/javascripts/search-data.json"></script>
+  <script src="http://localhost:4000/assets/javascripts/lunr/lunr.store.js"></script>
   <script>
     var idx = lunr(function () {
       
@@ -1657,8 +1657,6 @@ NDc6NTIrMDA6MDDajXGaAAAAAElFTkSuQmCC" />
         })
       }
     });
-
-    console.log(jQuery.type(idx));
 
     $(document).ready(function () {
       $('input#search').on('keyup', function () {

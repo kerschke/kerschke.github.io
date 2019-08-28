@@ -32,13 +32,14 @@ paginate: true
 
 ### Scientific Collaborations
 
+- [7th COSEAL Workshop (2019)](http://www.coseal.net/coseal-workshop-2019/) in Potsdam, Germany
 - [6th Heidelberg Laureate Forum (2018)](https://www.heidelberg-laureate-forum.org/event_2018/) in Heidelberg, Germany
 - [6th COSEAL Workshop (2018)](http://www.coseal.net/coseal-workshop-2018/) in Paris, France
 - [2nd International Summer School on Deep Learning (2018)](http://grammars.grlmc.com/DeepLearn2018/) in Genoa, Italy
 - [5th COSEAL Workshop (2017)](http://www.coseal.net/coseal-workshop-2017/) in Brussels, Belgium
-- [Dagstuhl Seminar on "Automated Algorithm Selection and Configuration" (2016)](https://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=16412) in Schloss Dagstuhl, Germany
+- [Dagstuhl Seminar on "Automated Algorithm Selection and Configuration" (2016)](https://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=16412) in Schloss Dagstuhl, Wadern, Germany
 - [1st mlr-Workshop (2016)](http://mlr-org.github.io/The-mlr-workshop/) in Palermo, Italy
-- 5th OpenML Workshop (2016) in Leiden, The Netherlands
+- [Lorentz Center Workshop on "Open Machine Learning" (2016)](https://www.lorentzcenter.nl/lc/web/2016/766/info.php3?wsid=766&venue=Snellius) in Lorentz Center, Leiden, The Netherlands
 - [3rd COSEAL Workshop (2015)](http://www.coseal.net/coseal-workshop-2015/) in Paderborn, Germany
 - 3rd OpenML Workshop (2014) in Eindhoven, The Netherlands
 - [1st COSEAL Workshop (2013)](http://www.coseal.net/coseal-workshop-2013/) in Münster, Germany

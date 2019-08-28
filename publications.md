@@ -9,9 +9,9 @@ paginate: true
 
 ### Publication Indices
 
-The citation numbers below are taken from [Google Scholar](https://scholar.google.com/citations?user=xQKB_kEAAAAJ&hl=en)  (last updated: July 22, 2019).
+The citation numbers below are taken from [Google Scholar](https://scholar.google.com/citations?user=xQKB_kEAAAAJ&hl=en)  (last updated: August 28, 2019).
 
-* number of citations: 330
+* number of citations: 348
 * h-index: 11
 * i10-index: 13
 
@@ -58,7 +58,7 @@ For more recent citation numbers, please see my [Google Scholar page](https://sc
 
 | # | Publication |
 |-----|-----|
-| [C18] | Bossek, J., <ins>**Kerschke, P.**</ins>, Neumann, A., Wagner, M., Neumann, F. & Trautmann, H. (2019). *Evolving Diverse TSP Instances by Means of Novel and Creative Mutation Operators*. In: Proceedings of the 15th ACM/SIGEVO Workshop on Foundations of Genetic Algorithms (FOGA XV), ACM (accepted).<br/> [[DOI](https://doi.org/10.1145/3299904.3340307)] [[BibTeX](/bibliographies/bossek2019evolving.bib)] |
+| [C18] | Bossek, J., <ins>**Kerschke, P.**</ins>, Neumann, A., Wagner, M., Neumann, F. & Trautmann, H. (2019). *Evolving Diverse TSP Instances by Means of Novel and Creative Mutation Operators*. In: Proceedings of the 15th ACM/SIGEVO Workshop on Foundations of Genetic Algorithms (FOGA XV), pp. 58 - 71, ACM.<br/> [[Link](https://dl.acm.org/citation.cfm?doid=3299904.3340307)] [[DOI](https://doi.org/10.1145/3299904.3340307)] [[BibTeX](/bibliographies/bossek2019evolving.bib)] |
 | [C17] | Doerr, C., Dreo, J. & <ins>**Kerschke, P.**</ins> (2019). *Making a Case for (Hyper-)Parameter Tuning as Benchmark Problems*. In: Proceedings of the 21st Annual Conference on Genetic and Evolutionary Computation (GECCO) Companion, pp. 1755 - 1764, ACM.<br/> [[Link](https://dl.acm.org/citation.cfm?doid=3319619.3326857)] [[DOI](https://doi.org/10.1145/3319619.3326857)] [[BibTeX](/bibliographies/doerr2019hyperparameter.bib)] |
 | [C16] | Grimme, C., <ins>**Kerschke, P.**</ins>, Emmerich, M. T. M., Preuss, M., Deutz, A. H. & Trautmann, H. (2019). *Sliding to the Global Optimum: How to Benefit from Non-Global Optima in Multimodal Multi-Objective Optimization*. In: Proceedings of the International Global Optimization Workshop (LeGO 2018), pp. 020052-1 - 020052-4, AIP Conference Proceedings.<br/>[[Link](https://doi.org/10.1063/1.5090019)] [[DOI](https://doi.org/10.1063/1.5090019)] [[BibTeX](/bibliographies/grimme2019lego.bib)] |
 | [C15] | Grimme, C., <ins>**Kerschke, P.**</ins> & Trautmann, H. (2019). *Multimodality in Multi-Objective Optimization - More Boon than Bane?*. In: Proceedings of the 10th International Conference on Evolutionary Multi-Criterion Optimization (EMO), pp. 126 - 138, Springer.<br/> [[Link](https://link.springer.com/chapter/10.1007/978-3-030-12598-1_11)] [[DOI](10.1007/978-3-030-12598-1_11)] [[BibTeX](/bibliographies/grimme2019boon.bib)] |

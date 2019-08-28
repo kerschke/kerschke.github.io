@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!--
-    Basically Basic Jekyll Theme 1.4.2
+    Basically Basic Jekyll Theme 1.4.4
     Copyright 2017-2018 Michael Rose - mademistakes.com | @mmistakes
     Free for personal and commercial use under the MIT license
     https://github.com/mmistakes/jekyll-theme-basically-basic/blob/master/LICENSE
@@ -1522,10 +1522,10 @@ NDc6NTIrMDA6MDDajXGaAAAAAElFTkSuQmCC" />
       <div class="entry-content">
         <h3 id="publication-indices">Publication Indices</h3>
 
-<p>The citation numbers below are taken from <a href="https://scholar.google.com/citations?user=xQKB_kEAAAAJ&amp;hl=en">Google Scholar</a>  (last updated: July 22, 2019).</p>
+<p>The citation numbers below are taken from <a href="https://scholar.google.com/citations?user=xQKB_kEAAAAJ&amp;hl=en">Google Scholar</a>  (last updated: August 28, 2019).</p>
 
 <ul>
-  <li>number of citations: 330</li>
+  <li>number of citations: 348</li>
   <li>h-index: 11</li>
   <li>i10-index: 13</li>
 </ul>
@@ -1631,7 +1631,7 @@ NDc6NTIrMDA6MDDajXGaAAAAAElFTkSuQmCC" />
   <tbody>
     <tr>
       <td>[C18]</td>
-      <td>Bossek, J., <ins><strong>Kerschke, P.</strong></ins>, Neumann, A., Wagner, M., Neumann, F. &amp; Trautmann, H. (2019). <em>Evolving Diverse TSP Instances by Means of Novel and Creative Mutation Operators</em>. In: Proceedings of the 15th ACM/SIGEVO Workshop on Foundations of Genetic Algorithms (FOGA XV), ACM (accepted).<br /> [<a href="https://doi.org/10.1145/3299904.3340307">DOI</a>] [<a href="/bibliographies/bossek2019evolving.bib">BibTeX</a>]</td>
+      <td>Bossek, J., <ins><strong>Kerschke, P.</strong></ins>, Neumann, A., Wagner, M., Neumann, F. &amp; Trautmann, H. (2019). <em>Evolving Diverse TSP Instances by Means of Novel and Creative Mutation Operators</em>. In: Proceedings of the 15th ACM/SIGEVO Workshop on Foundations of Genetic Algorithms (FOGA XV), pp. 58 - 71, ACM.<br /> [<a href="https://dl.acm.org/citation.cfm?doid=3299904.3340307">Link</a>] [<a href="https://doi.org/10.1145/3299904.3340307">DOI</a>] [<a href="/bibliographies/bossek2019evolving.bib">BibTeX</a>]</td>
     </tr>
     <tr>
       <td>[C17]</td>
@@ -1831,7 +1831,7 @@ NDc6NTIrMDA6MDDajXGaAAAAAElFTkSuQmCC" />
 
 <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
   <script src="http://localhost:4000/assets/javascripts/lunr/lunr.min.js"></script>
-  <script src="http://localhost:4000/assets/javascripts/search-data.json"></script>
+  <script src="http://localhost:4000/assets/javascripts/lunr/lunr.store.js"></script>
   <script>
     var idx = lunr(function () {
       
@@ -1855,8 +1855,6 @@ NDc6NTIrMDA6MDDajXGaAAAAAElFTkSuQmCC" />
         })
       }
     });
-
-    console.log(jQuery.type(idx));
 
     $(document).ready(function () {
       $('input#search').on('keyup', function () {
