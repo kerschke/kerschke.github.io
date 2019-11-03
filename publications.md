@@ -9,11 +9,11 @@ paginate: true
 
 ### Publication Indices
 
-The citation numbers below are taken from [Google Scholar](https://scholar.google.com/citations?user=xQKB_kEAAAAJ&hl=en)  (last updated: August 28, 2019).
+The citation numbers below are taken from [Google Scholar](https://scholar.google.com/citations?user=xQKB_kEAAAAJ&hl=en)  (last updated: November 3, 2019).
 
-* number of citations: 348
-* h-index: 11
-* i10-index: 13
+* number of citations: 383
+* h-index: 12
+* i10-index: 14
 
 ![citations](../assets/images/cites.pdf)
 
@@ -98,13 +98,21 @@ For more recent citation numbers, please see my [Google Scholar page](https://sc
 | [C02]  | Kotthoff, L., <ins>**Kerschke, P.**</ins>, Hoos, H. H. & Trautmann, H. (2015). *Improving the State of the Art in Inexact TSP Solving using Per-Instance Algorithm Selection*. In: Learning and Intelligent OptimizatioN 9 (LION), pp. 202 – 217, Springer.<br/> [[Link](https://link.springer.com/chapter/10.1007/978-3-319-19084-6_18)] [[DOI](https://doi.org/10.1007/978-3-319-19084-6_18)] [[BibTeX](/bibliographies/kotthoff2015improving.bib)] |
 
 
-
-
 #### 2014
 
 | # | Publication |
 |-----|-----|
 | [C01] | <ins>**Kerschke, P.**</ins>, Preuss, M., Hernández, C., Schütze, O., Sun, J.-Q., Grimme, C., Rudolph, G., Bischl, B. & Trautmann, H. (2014). *Cell Mapping Techniques for Exploratory Landscape Analysis*. In: EVOLVE - A Bridge between Probability, Set Oriented Numerics and Evolutionary Computation (EVOLVE 2014), pp. 115 – 131, Springer.<br/>[[Link](https://link.springer.com/chapter/10.1007/978-3-319-07494-8_9)] [[DOI](https://doi.org/10.1007/978-3-319-07494-8_9)] [[BibTeX](/bibliographies/kerschke2014cellmapping.bib)] |
+
+
+&nbsp;
+### Contributed Book Chapters
+
+#### 2019 
+
+| # | Publication |
+|-----|-----|
+[B01] | <ins>**Kerschke, P.**</ins>, & Trautmann, H. (2019). *Comprehensive Feature-Based Landscape Analysis of Continuous and Constrained Optimization Problems Using the R-Package Flacco*. In: Applications in Statistical Computing - From Music Data Analysis to Industrial Quality Improvement, pp. 93 - 123, Springer.<br/> [[Link](https://www.springer.com/gp/book/9783030251468)] [[BibTeX](/bibliographies/kerschke2019flacco.bib)] [[arXiv](https://arxiv.org/pdf/1708.05258.pdf)] |
 
 
 &nbsp;
