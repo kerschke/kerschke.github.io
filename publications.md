@@ -15,7 +15,7 @@ The citation numbers below are taken from [Google Scholar](https://scholar.googl
 * h-index: 12
 * i10-index: 14
 
-![citations](../assets/images/cites.pdf)
+![citations](../assets/images/cites.png)
 
 For more recent citation numbers, please see my [Google Scholar page](https://scholar.google.com/citations?user=xQKB_kEAAAAJ&hl=en).<br/><br/>
 
