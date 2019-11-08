@@ -9,7 +9,7 @@ paginate: true
 
 ### Publication Indices
 
-The citation numbers below are taken from [Google Scholar](https://scholar.google.com/citations?user=xQKB_kEAAAAJ&hl=en)  (last updated: November 3, 2019).
+The citation numbers below are taken from [Google Scholar](https://scholar.google.com/citations?user=xQKB_kEAAAAJ&hl=en)  (last updated: November 8, 2019).
 
 * number of citations: 391
 * h-index: 12
