@@ -9,9 +9,9 @@ paginate: true
 
 ### Publication Indices
 
-The citation numbers below are taken from [Google Scholar](https://scholar.google.com/citations?user=xQKB_kEAAAAJ&hl=en)  (last updated: November 8, 2019).
+The citation numbers below are taken from [Google Scholar](https://scholar.google.com/citations?user=xQKB_kEAAAAJ&hl=en)  (last updated: December 2, 2019).
 
-* number of citations: 391
+* number of citations: 398
 * h-index: 12
 * i10-index: 15
 
@@ -26,25 +26,25 @@ For more recent citation numbers, please see my [Google Scholar page](https://sc
 
 | # | Publication |
 |-----|-----|
-[J08] | Bossek, J., <ins>**Kerschke, P.**</ins> & Trautmann, H. (2019). *A Multi-Objective Perspective on Performance Assessment and Automated Selection of Single-Objective Optimization Algorithms*. In: Applied Soft Computing (ASOC), Elsevier (in press).<br/> [[Link](https://www.sciencedirect.com/science/article/abs/pii/S1568494619306829)] [[DOI](https://doi.org/10.1016/j.asoc.2019.105901)] [[BibTeX](/bibliographies/bossek2019performance.bib)] |
-[J07] | Casalicchio, G., Bossek, J., Lang, M., Kirchhoff, D., <ins>**Kerschke, P.**</ins>, Hofner, B., Seibold, H., Vanschoren, J. & Bischl, B. (2019). *OpenML: An R Package to Connect to the Machine Learning Platform OpenML*. In: Computational Statistics, pp. 977 – 991, Springer.<br/> [[Link](https://link.springer.com/article/10.1007/s00180-017-0742-2)] [[DOI](https://doi.org/10.1007/s00180-017-0742-2)] [[BibTeX](/bibliographies/casalicchio2017openml.bib)] |
-[J06] | <ins>**Kerschke, P.**</ins>, Hoos, H. H., Neumann, F. & Trautmann, H. (2019). *Automated Algorithm Selection: Survey and Perspectives*. In: Evolutionary Computation (ECJ), pp. 3 - 45, MIT Press.<br/> [[Link](https://www.mitpressjournals.org/doi/full/10.1162/evco_a_00242)] [[DOI](https://doi.org/10.1162/evco_a_00242)] [[BibTeX](/bibliographies/kerschke2019survey.bib)] |
-[J05] | <ins>**Kerschke, P.**</ins> & Trautmann, H. (2019). *Automated Algorithm Selection on Continuous Black-Box Problems By Combining Exploratory Landscape Analysis and Machine Learning*. In: Evolutionary Computation (ECJ), pp. 99 - 127, MIT Press.<br/> [[Link](https://www.mitpressjournals.org/doi/full/10.1162/evco_a_00236)] [[DOI](https://doi.org/10.1162/evco_a_00236)] [[BibTeX](/bibliographies/kerschke2019automatedAS.bib)] |
+[J08] | <ins>**Kerschke, P.**</ins>, Wang, H., Preuss, M., Grimme, C., Deutz, A. H., Trautmann, H. & Emmerich, M. T. M. (2019). *Search Dynamics on Multimodal Multi-Objective Problems*. In: Evolutionary Computation (ECJ), Vol. 27(4), pp. 577 – 609, MIT Press.<br/> [[Link](https://www.mitpressjournals.org/doi/full/10.1162/evco_a_00234)] [[DOI](https://doi.org/10.1162/evco_a_00234)] [[BibTeX](/bibliographies/kerschke2019search.bib)] |
+[J07] | Bossek, J., <ins>**Kerschke, P.**</ins> & Trautmann, H. (2019). *A Multi-Objective Perspective on Performance Assessment and Automated Selection of Single-Objective Optimization Algorithms*. In: Applied Soft Computing (ASOC), Elsevier (in press).<br/> [[Link](https://www.sciencedirect.com/science/article/abs/pii/S1568494619306829)] [[DOI](https://doi.org/10.1016/j.asoc.2019.105901)] [[BibTeX](/bibliographies/bossek2019performance.bib)] |
+[J06] | Casalicchio, G., Bossek, J., Lang, M., Kirchhoff, D., <ins>**Kerschke, P.**</ins>, Hofner, B., Seibold, H., Vanschoren, J. & Bischl, B. (2019). *OpenML: An R Package to Connect to the Machine Learning Platform OpenML*. In: Computational Statistics, pp. 977 – 991, Springer.<br/> [[Link](https://link.springer.com/article/10.1007/s00180-017-0742-2)] [[DOI](https://doi.org/10.1007/s00180-017-0742-2)] [[BibTeX](/bibliographies/casalicchio2017openml.bib)] |
+[J05] | <ins>**Kerschke, P.**</ins>, Hoos, H. H., Neumann, F. & Trautmann, H. (2019). *Automated Algorithm Selection: Survey and Perspectives*. In: Evolutionary Computation (ECJ), Vol. 27(1), pp. 3 - 45, MIT Press.<br/> [[Link](https://www.mitpressjournals.org/doi/full/10.1162/evco_a_00242)] [[DOI](https://doi.org/10.1162/evco_a_00242)] [[BibTeX](/bibliographies/kerschke2019survey.bib)] |
+[J04] | <ins>**Kerschke, P.**</ins> & Trautmann, H. (2019). *Automated Algorithm Selection on Continuous Black-Box Problems By Combining Exploratory Landscape Analysis and Machine Learning*. In: Evolutionary Computation (ECJ), Vol. 27(1), pp. 99 - 127, MIT Press.<br/> [[Link](https://www.mitpressjournals.org/doi/full/10.1162/evco_a_00236)] [[DOI](https://doi.org/10.1162/evco_a_00236)] [[BibTeX](/bibliographies/kerschke2019automatedAS.bib)] |
 
 #### 2018 
 
 | # | Publication |
 |-----|-----|
-[J04] | <ins>**Kerschke, P.**</ins>, Wang, H., Preuss, M., Grimme, C., Deutz, A. H., Trautmann, H. & Emmerich, M. T. M. (2018). *Search Dynamics on Multimodal Multi-Objective Problems*. In: Evolutionary Computation (ECJ), pp. 1 – 30, MIT Press.<br/> [[Link](https://www.mitpressjournals.org/doi/abs/10.1162/evco_a_00234)] [[DOI](https://doi.org/10.1162/evco_a_00234)] [[BibTeX](/bibliographies/kerschke2018search.bib)] |
-[J03] | <ins>**Kerschke, P.**</ins>, Kotthoff, L., Bossek, J., Hoos, H. H. & Trautmann, H. (2018). *Leveraging TSP Solver Complementarity through Machine Learning*. In: Evolutionary Computation (ECJ), pp. 597 – 620, MIT Press.<br/> [[Link](https://www.mitpressjournals.org/doi/full/10.1162/evco_a_00215)] [[DOI](https://doi.org/10.1162/evco_a_00215)] [[BibTeX](/bibliographies/kerschke2018leveraging.bib)] |
+[J03] | <ins>**Kerschke, P.**</ins>, Kotthoff, L., Bossek, J., Hoos, H. H. & Trautmann, H. (2018). *Leveraging TSP Solver Complementarity through Machine Learning*. In: Evolutionary Computation (ECJ), Vol. 26(4), pp. 597 – 620, MIT Press.<br/> [[Link](https://www.mitpressjournals.org/doi/full/10.1162/evco_a_00215)] [[DOI](https://doi.org/10.1162/evco_a_00215)] [[BibTeX](/bibliographies/kerschke2018leveraging.bib)] |
 
 
 #### 2016
 
 | # | Publication |
 |-----|-----|
-[J02] | Bischl, B., <ins>**Kerschke, P.**</ins>, Kotthoff, L., Lindauer, T. M., Malitsky, Y., Fréchette, A., Hoos, H. H., Hutter, F., Leyton-Brown, K., Tierney, K. & Vanschoren, J. (2016). *ASlib: A Benchmark Library for Algorithm Selection*. In: Artificial Intelligence (AIJ), pp. 41 – 58, Elsevier.<br/>[[Link](https://www.sciencedirect.com/science/article/pii/S0004370216300388)] [[DOI](https://doi.org/10.1016/j.artint.2016.04.003)] [[BibTeX](/bibliographies/bischl2016aslib.bib)] |
-[J01] | Liboschik, T., <ins>**Kerschke, P.**</ins>, Fokianos, K. & Fried, R. (2016). *Modelling Interventions in INGARCH processes*. In: International Journal of Computer Mathematics, pp. 640 – 657, Taylor & Francis.<br/>[[Link](https://www.tandfonline.com/doi/abs/10.1080/00207160.2014.949250)] [[DOI](https://doi.org/10.1080/00207160.2014.949250)] [[BibTeX](/bibliographies/liboschik2016modelling.bib)] |
+[J02] | Bischl, B., <ins>**Kerschke, P.**</ins>, Kotthoff, L., Lindauer, T. M., Malitsky, Y., Fréchette, A., Hoos, H. H., Hutter, F., Leyton-Brown, K., Tierney, K. & Vanschoren, J. (2016). *ASlib: A Benchmark Library for Algorithm Selection*. In: Artificial Intelligence (AIJ), Vol. 237, pp. 41 – 58, Elsevier.<br/>[[Link](https://www.sciencedirect.com/science/article/pii/S0004370216300388)] [[DOI](https://doi.org/10.1016/j.artint.2016.04.003)] [[BibTeX](/bibliographies/bischl2016aslib.bib)] |
+[J01] | Liboschik, T., <ins>**Kerschke, P.**</ins>, Fokianos, K. & Fried, R. (2016). *Modelling Interventions in INGARCH processes*. In: International Journal of Computer Mathematics, Vol. 93(4), pp. 640 – 657, Taylor & Francis.<br/>[[Link](https://www.tandfonline.com/doi/abs/10.1080/00207160.2014.949250)] [[DOI](https://doi.org/10.1080/00207160.2014.949250)] [[BibTeX](/bibliographies/liboschik2016modelling.bib)] |
 
 
 &nbsp;
