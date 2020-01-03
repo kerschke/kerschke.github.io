@@ -11,8 +11,8 @@ paginate: true
 
 The citation numbers below are taken from [Google Scholar](https://scholar.google.com/citations?user=xQKB_kEAAAAJ&hl=en)  (last updated: December 2, 2019).
 
-* number of citations: 398
-* h-index: 12
+* number of citations: 412
+* h-index: 13
 * i10-index: 15
 
 ![citations](../assets/images/cites.png)

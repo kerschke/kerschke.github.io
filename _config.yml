@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
-copyright: "© 2019 Pascal Kerschke."
+copyright: "© 2020 Pascal Kerschke."
 
 # Site Settings
 lang: en-US
@@ -19,7 +19,7 @@ author:
   name: Pascal Kerschke
   twitter: 
   picture: /assets/images/me_close_up_vs2.png
-twitter_username: 
+twitter_username: KerschkePascal
 github_username: kerschke
 researchgate_username: Pascal_Kerschke
 orcid_username: 0000-0003-2862-1418
