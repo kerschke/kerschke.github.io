@@ -7,11 +7,15 @@ paginate: true
 
 ---
 
-### Involved in the Organization
+### Co-Organization of Scientific Events
 
 
 #### Conferences
 - [9th International Conference on Evolutionary Multi-Criterion Optimization (EMO 2017)](http://www.emo2017.org/) in Münster, Germany (Co-Chair Local Organization)
+
+
+#### Seminars
+- [Dagstuhl Seminar on "Challenges in Benchmarking Optimization Heuristics" (2021)](https://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=21081) in Schloss Dagstuhl, Wadern, Germany (Co-Organizer)
 
 
 #### Tutorials
@@ -30,8 +34,17 @@ paginate: true
 
 &nbsp;
 
+### Coordinating Member of Research Networks
+
+- [Benchmarking Network](https://sites.google.com/view/benchmarking-network)
+- [COSEAL (Configuration and Selection of Algorithms)](https://www.coseal.net)
+
+
+&nbsp;
+
 ### Scientific Collaborations
 
+- [Dagstuhl Seminar on "Scalability in Multiobjective Optimization" (2020)](https://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=20031) in Schloss Dagstuhl, Wadern, Germany
 - [7th COSEAL Workshop (2019)](http://www.coseal.net/coseal-workshop-2019/) in Potsdam, Germany
 - [6th Heidelberg Laureate Forum (2018)](https://www.heidelberg-laureate-forum.org/event_2018/) in Heidelberg, Germany
 - [6th COSEAL Workshop (2018)](http://www.coseal.net/coseal-workshop-2018/) in Paris, France

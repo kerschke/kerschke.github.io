@@ -9,9 +9,9 @@ paginate: true
 
 ### Publication Indices
 
-The citation numbers below are taken from [Google Scholar](https://scholar.google.com/citations?user=xQKB_kEAAAAJ&hl=en)  (last updated: January 03, 2020).
+The citation numbers below are taken from [Google Scholar](https://scholar.google.com/citations?user=xQKB_kEAAAAJ&hl=en)  (last updated: April 05, 2020).
 
-* number of citations: 412
+* number of citations: 456
 * h-index: 13
 * i10-index: 15
 
@@ -22,12 +22,18 @@ For more recent citation numbers, please see my [Google Scholar page](https://sc
 
 ### Journal Articles
 
+#### 2020
+
+| # | Publication |
+|-----|-----|
+[J08] | Bossek, J., <ins>**Kerschke, P.**</ins> & Trautmann, H. (2020). *A Multi-Objective Perspective on Performance Assessment and Automated Selection of Single-Objective Optimization Algorithms*. In: Applied Soft Computing (ASOC), Vol. 88, Elsevier.<br/> [[Link](https://www.sciencedirect.com/science/article/abs/pii/S1568494619306829)] [[DOI](https://doi.org/10.1016/j.asoc.2019.105901)] [[BibTeX](/bibliographies/bossek2020performance.bib)] |
+
+
 #### 2019 
 
 | # | Publication |
 |-----|-----|
-[J08] | <ins>**Kerschke, P.**</ins>, Wang, H., Preuss, M., Grimme, C., Deutz, A. H., Trautmann, H. & Emmerich, M. T. M. (2019). *Search Dynamics on Multimodal Multi-Objective Problems*. In: Evolutionary Computation (ECJ), Vol. 27(4), pp. 577 – 609, MIT Press.<br/> [[Link](https://www.mitpressjournals.org/doi/full/10.1162/evco_a_00234)] [[DOI](https://doi.org/10.1162/evco_a_00234)] [[BibTeX](/bibliographies/kerschke2019search.bib)] |
-[J07] | Bossek, J., <ins>**Kerschke, P.**</ins> & Trautmann, H. (2019). *A Multi-Objective Perspective on Performance Assessment and Automated Selection of Single-Objective Optimization Algorithms*. In: Applied Soft Computing (ASOC), Elsevier (in press).<br/> [[Link](https://www.sciencedirect.com/science/article/abs/pii/S1568494619306829)] [[DOI](https://doi.org/10.1016/j.asoc.2019.105901)] [[BibTeX](/bibliographies/bossek2019performance.bib)] |
+[J07] | <ins>**Kerschke, P.**</ins>, Wang, H., Preuss, M., Grimme, C., Deutz, A. H., Trautmann, H. & Emmerich, M. T. M. (2019). *Search Dynamics on Multimodal Multi-Objective Problems*. In: Evolutionary Computation (ECJ), Vol. 27(4), pp. 577 – 609, MIT Press.<br/> [[Link](https://www.mitpressjournals.org/doi/full/10.1162/evco_a_00234)] [[DOI](https://doi.org/10.1162/evco_a_00234)] [[BibTeX](/bibliographies/kerschke2019search.bib)] |
 [J06] | Casalicchio, G., Bossek, J., Lang, M., Kirchhoff, D., <ins>**Kerschke, P.**</ins>, Hofner, B., Seibold, H., Vanschoren, J. & Bischl, B. (2019). *OpenML: An R Package to Connect to the Machine Learning Platform OpenML*. In: Computational Statistics, pp. 977 – 991, Springer.<br/> [[Link](https://link.springer.com/article/10.1007/s00180-017-0742-2)] [[DOI](https://doi.org/10.1007/s00180-017-0742-2)] [[BibTeX](/bibliographies/casalicchio2017openml.bib)] |
 [J05] | <ins>**Kerschke, P.**</ins>, Hoos, H. H., Neumann, F. & Trautmann, H. (2019). *Automated Algorithm Selection: Survey and Perspectives*. In: Evolutionary Computation (ECJ), Vol. 27(1), pp. 3 - 45, MIT Press.<br/> [[Link](https://www.mitpressjournals.org/doi/full/10.1162/evco_a_00242)] [[DOI](https://doi.org/10.1162/evco_a_00242)] [[BibTeX](/bibliographies/kerschke2019survey.bib)] |
 [J04] | <ins>**Kerschke, P.**</ins> & Trautmann, H. (2019). *Automated Algorithm Selection on Continuous Black-Box Problems By Combining Exploratory Landscape Analysis and Machine Learning*. In: Evolutionary Computation (ECJ), Vol. 27(1), pp. 99 - 127, MIT Press.<br/> [[Link](https://www.mitpressjournals.org/doi/full/10.1162/evco_a_00236)] [[DOI](https://doi.org/10.1162/evco_a_00236)] [[BibTeX](/bibliographies/kerschke2019automatedAS.bib)] |
@@ -49,6 +55,16 @@ For more recent citation numbers, please see my [Google Scholar page](https://sc
 
 &nbsp;
 ### Conference Articles (Peer Reviewed)
+
+#### 2020
+
+| # | Publication |
+|-----|-----|
+| [C22] | Bossek, J., Casel, K., <ins>**Kerschke, P.** & Neumann, F.</ins> (2020). *The Node Weight Dependent Traveling Salesperson Problem: Approximation Algorithms and Randomized Search Heuristics*. In: Proceedings of the 22nd Annual Conference on Genetic and Evolutionary Computation (GECCO), ACM. (accepted)<br/> [[BibTeX](/bibliographies/seiler2020resilience.bib)] [[arXiv](https://arxiv.org/abs/2002.01070)] |
+| [C21] | Bossek, J., Doerr, C. & <ins>**Kerschke, P.**</ins> (2020). *Initial Design Strategies and their Effects on Sequential Model-Based Optimization: An Exploratory Case Study Based on BBOB*. In: Proceedings of the 22nd Annual Conference on Genetic and Evolutionary Computation (GECCO), ACM. (accepted)<br/> [[DOI](10.1145/3377930.3390155)] [[BibTeX](/bibliographies/seiler2020resilience.bib)] [[arXiv](https://arxiv.org/abs/2003.13826)] |
+| [C20] | Bossek, <ins>**Kerschke, P.**</ins> & Trautmann, H. (2020). *Anytime Behavior of Inexact TSP Solvers and Perspectives for Automated Algorithm Selection*. In: Proceedings of the IEEE Congress on Evolutionary Computation (CEC), IEEE. (accepted)<br/> [[BibTeX](/bibliographies/bossek2020anytime.bib)] |
+| [C19] | Seiler, M. V., Trautmann, H. & <ins>**Kerschke, P.**</ins> (2020). *Enhancing Resilience of Deep Learning Networks By Means of Transferable Adversaries*. In: Proceedings of the International Joint Conference on Neural Networks (IJCNN), IEEE. (accepted)<br/> [[BibTeX](/bibliographies/seiler2020resilience.bib)] |
+
 
 #### 2019
 
