@@ -36,7 +36,7 @@ google_fonts:
 
 navigation_pages:
   - about.md
-  - news.md
+  #- news.md
   #- research.md
   - publications.md
   - events.md

@@ -44,6 +44,7 @@ paginate: true
 
 ### Scientific Collaborations
 
+- [Lorentz Center Workshop on "Benchmarked: Optimization Meets Machine Learning" (2020)](https://www.lorentzcenter.nl/benchmarked-optimization-meets-machine-learning.html) in Lorentz Center, Leiden, The Netherlands
 - [Dagstuhl Seminar on "Scalability in Multiobjective Optimization" (2020)](https://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=20031) in Schloss Dagstuhl, Wadern, Germany
 - [7th COSEAL Workshop (2019)](http://www.coseal.net/coseal-workshop-2019/) in Potsdam, Germany
 - [6th Heidelberg Laureate Forum (2018)](https://www.heidelberg-laureate-forum.org/event_2018/) in Heidelberg, Germany
