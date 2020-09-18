@@ -9,11 +9,11 @@ paginate: true
 
 ### Publication Indices
 
-The citation numbers below are taken from [Google Scholar](https://scholar.google.com/citations?user=xQKB_kEAAAAJ&hl=en)  (last updated: July 02, 2020).
+The citation numbers below are taken from [Google Scholar](https://scholar.google.com/citations?user=xQKB_kEAAAAJ&hl=en)  (last updated: September 17, 2020).
 
-* number of citations: 550
+* number of citations: 627
 * h-index: 14
-* i10-index: 16
+* i10-index: 18
 
 ![citations](../assets/images/cites.png)
 
@@ -60,13 +60,13 @@ For more recent citation numbers, please see my [Google Scholar page](https://sc
 
 | # | Publication |
 |-----|-----|
-| [C25] | Bossek, J., Casel, K., <ins>**Kerschke, P.**</ins> & Neumann, F. (2020). *The Node Weight Dependent Traveling Salesperson Problem: Approximation Algorithms and Randomized Search Heuristics*. In: Proceedings of the 22nd Annual Conference on Genetic and Evolutionary Computation (GECCO), ACM. (accepted)<br/> [[DOI](10.1145/3377930.3390243)] [[BibTeX](/bibliographies/seiler2020resilience.bib)] [[arXiv](https://arxiv.org/abs/2002.01070)] |
-| [C24] | Bossek, J., Doerr, C. & <ins>**Kerschke, P.**</ins> (2020). *Initial Design Strategies and their Effects on Sequential Model-Based Optimization: An Exploratory Case Study Based on BBOB*. In: Proceedings of the 22nd Annual Conference on Genetic and Evolutionary Computation (GECCO), ACM. (accepted)<br/> [[DOI](10.1145/3377930.3390155)] [[BibTeX](/bibliographies/bossek2020smbo.bib)] [[arXiv](https://arxiv.org/abs/2003.13826)] |
-| [C23] | Bossek, J., Doerr, C., <ins>**Kerschke, P.**</ins>, Neumann, A. & Neumann, F. (2020). *Evolving Sampling Strategies for One-Shot Optimization Tasks*. In: Proceedings of the 16th International Conference on Parallel Problem Solving from Nature (PPSN XVI), Springer. (accepted)<br/> [[BibTeX](/bibliographies/bossek2020evolving.bib)] |
-| [C22] | Bossek, <ins>**Kerschke, P.**</ins> & Trautmann, H. (2020). *Anytime Behavior of Inexact TSP Solvers and Perspectives for Automated Algorithm Selection*. In: Proceedings of the IEEE Congress on Evolutionary Computation (CEC), IEEE. (accepted)<br/> [[BibTeX](/bibliographies/bossek2020anytime.bib)] [[arXiv](https://arxiv.org/abs/2005.13289)]|
-| [C21] | Schaepermeier, L., Grimme, C. & <ins>**Kerschke, P.**</ins> (2020). *One PLOT to Show Them All: Visualization of Efficient Sets in Multi-Objective Landscapes*. In: Proceedings of the 16th International Conference on Parallel Problem Solving from Nature (PPSN XVI), Springer. (accepted)<br/> [[BibTeX](/bibliographies/schaepermeier2020plot.bib)] [[arXiv](https://arxiv.org/abs/2006.11547)]|
-| [C20] | Seiler, M. V., Pohl, J., Bossek, J., <ins>**Kerschke, P.**</ins> & Trautmann, H. (2020). *Deep Learning as a Competitive Feature-Free Approach for Automated Algorithm Selection on the Traveling Salesperson Problem*. In: Proceedings of the 16th International Conference on Parallel Problem Solving from Nature (PPSN XVI), Springer. (accepted)<br/> [[BibTeX](/bibliographies/seiler2020deeplearning.bib)] [[arXiv](https://arxiv.org/abs/2006.15968)] |
-| [C19] | Seiler, M. V., Trautmann, H. & <ins>**Kerschke, P.**</ins> (2020). *Enhancing Resilience of Deep Learning Networks By Means of Transferable Adversaries*. In: Proceedings of the International Joint Conference on Neural Networks (IJCNN), IEEE. (accepted)<br/> [[BibTeX](/bibliographies/seiler2020resilience.bib)] [[arXiv](https://arxiv.org/abs/2005.13293)]|
+| [C25] | Bossek, J., Casel, K., <ins>**Kerschke, P.**</ins> & Neumann, F. (2020). *The Node Weight Dependent Traveling Salesperson Problem: Approximation Algorithms and Randomized Search Heuristics*. In: Proceedings of the 22nd Annual Conference on Genetic and Evolutionary Computation (GECCO), pp. 1286 – 1294, ACM.<br/> [[Link](https://dl.acm.org/doi/10.1145/3377930.3390243)] [[DOI](https://doi.org/10.1145/3377930.3390243)] [[BibTeX](/bibliographies/seiler2020resilience.bib)] [[arXiv](https://arxiv.org/abs/2002.01070)] |
+| [C24] | Bossek, J., Doerr, C. & <ins>**Kerschke, P.**</ins> (2020). *Initial Design Strategies and their Effects on Sequential Model-Based Optimization: An Exploratory Case Study Based on BBOB*. In: Proceedings of the 22nd Annual Conference on Genetic and Evolutionary Computation (GECCO), pp. 778 – 786, ACM.<br/> [[Link](https://dl.acm.org/doi/10.1145/3377930.3390155)] [[DOI](https://doi.org/10.1145/3377930.3390155)] [[BibTeX](/bibliographies/bossek2020smbo.bib)] [[arXiv](https://arxiv.org/abs/2003.13826)] |
+| [C23] | Bossek, J., Doerr, C., <ins>**Kerschke, P.**</ins>, Neumann, A. & Neumann, F. (2020). *Evolving Sampling Strategies for One-Shot Optimization Tasks*. In: Proceedings of the 16th International Conference on Parallel Problem Solving from Nature (PPSN XVI), pp. 111 - 124, Springer.<br/> [[Link](https://link.springer.com/chapter/10.1007/978-3-030-58112-1_8)] [[DOI](https://doi.org/10.1007/978-3-030-58112-1_8)] [[BibTeX](/bibliographies/bossek2020evolving.bib)] |
+| [C22] | Bossek, <ins>**Kerschke, P.**</ins> & Trautmann, H. (2020). *Anytime Behavior of Inexact TSP Solvers and Perspectives for Automated Algorithm Selection*. In: Proceedings of the IEEE Congress on Evolutionary Computation (CEC), IEEE. (in press)<br/> [[BibTeX](/bibliographies/bossek2020anytime.bib)] [[arXiv](https://arxiv.org/abs/2005.13289)]|
+| [C21] | Schaepermeier, L., Grimme, C. & <ins>**Kerschke, P.**</ins> (2020). *One PLOT to Show Them All: Visualization of Efficient Sets in Multi-Objective Landscapes*. In: Proceedings of the 16th International Conference on Parallel Problem Solving from Nature (PPSN XVI), pp. 154-167, Springer.<br/> [[Link](https://link.springer.com/chapter/10.1007/978-3-030-58115-2_11)] [[DOI](https://doi.org/10.1007/978-3-030-58115-2_11)] [[BibTeX](/bibliographies/schaepermeier2020plot.bib)] [[arXiv](https://arxiv.org/abs/2006.11547)]|
+| [C20] | Seiler, M. V., Pohl, J., Bossek, J., <ins>**Kerschke, P.**</ins> & Trautmann, H. (2020). *Deep Learning as a Competitive Feature-Free Approach for Automated Algorithm Selection on the Traveling Salesperson Problem*. In: Proceedings of the 16th International Conference on Parallel Problem Solving from Nature (PPSN XVI), 48 - 64 Springer.<br/> [[Link](https://link.springer.com/chapter/10.1007/978-3-030-58112-1_4)] [[DOI](https://doi.org/10.1007/978-3-030-58112-1_4)] [[BibTeX](/bibliographies/seiler2020deeplearning.bib)] [[arXiv](https://arxiv.org/abs/2006.15968)] |
+| [C19] | Seiler, M. V., Trautmann, H. & <ins>**Kerschke, P.**</ins> (2020). *Enhancing Resilience of Deep Learning Networks By Means of Transferable Adversaries*. In: Proceedings of the International Joint Conference on Neural Networks (IJCNN), IEEE. (in press)<br/> [[BibTeX](/bibliographies/seiler2020resilience.bib)] [[arXiv](https://arxiv.org/abs/2005.13293)]|
 
 
 #### 2019
