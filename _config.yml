@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
-copyright: "© 2020 Pascal Kerschke."
+copyright: "© 2021 Pascal Kerschke."
 
 # Site Settings
 lang: en-US
@@ -71,6 +71,7 @@ plugins: # previously gems
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-remote-theme
+  - jekyll-twitter-plugin
 
 # Jekyll Feed
 #feed:

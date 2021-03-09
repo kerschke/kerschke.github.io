@@ -40,4 +40,12 @@
       </a>
     {% endif %}
   </li>
+  
+  <li>
+    {% if site.plugins contains 'jekyll-twitter-plugin' or site.gems contains 'jekyll-twitter-plugin' %}
+      <div class='jekyll-twitter-plugin' align="center">
+        {% twitter https://twitter.com/kerschkepascal maxwidth=300 limit=3 %}
+      </div>
+    {% endif %} 
+  </li>
 </ul>

@@ -9,11 +9,11 @@ paginate: true
 
 ### Publication Indices
 
-The citation numbers below are taken from [Google Scholar](https://scholar.google.com/citations?user=xQKB_kEAAAAJ&hl=en)  (last updated: September 17, 2020).
+The citation numbers below are taken from [Google Scholar](https://scholar.google.com/citations?user=xQKB_kEAAAAJ&hl=en)  (last updated: March 08, 2020).
 
-* number of citations: 627
+* number of citations: 798
 * h-index: 14
-* i10-index: 18
+* i10-index: 20
 
 ![citations](../assets/images/cites.png)
 
@@ -29,7 +29,7 @@ For more recent citation numbers, please see my [Google Scholar page](https://sc
 [J08] | Bossek, J., <ins>**Kerschke, P.**</ins> & Trautmann, H. (2020). *A Multi-Objective Perspective on Performance Assessment and Automated Selection of Single-Objective Optimization Algorithms*. In: Applied Soft Computing (ASOC), Vol. 88, Elsevier.<br/> [[Link](https://www.sciencedirect.com/science/article/abs/pii/S1568494619306829)] [[DOI](https://doi.org/10.1016/j.asoc.2019.105901)] [[BibTeX](/bibliographies/bossek2020performance.bib)] |
 
 
-#### 2019 
+#### 2019
 
 | # | Publication |
 |-----|-----|
@@ -38,7 +38,7 @@ For more recent citation numbers, please see my [Google Scholar page](https://sc
 [J05] | <ins>**Kerschke, P.**</ins>, Hoos, H. H., Neumann, F. & Trautmann, H. (2019). *Automated Algorithm Selection: Survey and Perspectives*. In: Evolutionary Computation (ECJ), Vol. 27(1), pp. 3 - 45, MIT Press.<br/> [[Link](https://www.mitpressjournals.org/doi/full/10.1162/evco_a_00242)] [[DOI](https://doi.org/10.1162/evco_a_00242)] [[BibTeX](/bibliographies/kerschke2019survey.bib)] |
 [J04] | <ins>**Kerschke, P.**</ins> & Trautmann, H. (2019). *Automated Algorithm Selection on Continuous Black-Box Problems By Combining Exploratory Landscape Analysis and Machine Learning*. In: Evolutionary Computation (ECJ), Vol. 27(1), pp. 99 - 127, MIT Press.<br/> [[Link](https://www.mitpressjournals.org/doi/full/10.1162/evco_a_00236)] [[DOI](https://doi.org/10.1162/evco_a_00236)] [[BibTeX](/bibliographies/kerschke2019automatedAS.bib)] |
 
-#### 2018 
+#### 2018
 
 | # | Publication |
 |-----|-----|
@@ -56,17 +56,27 @@ For more recent citation numbers, please see my [Google Scholar page](https://sc
 &nbsp;
 ### Conference Articles (Peer Reviewed)
 
+#### 2021
+
+| # | Publication |
+|-----|-----|
+| [C29] | Aspar, P., <ins>**Kerschke, P.**</ins>, Steinhoff, V., Trautmann, H., & Grimme, C. (2021). *Multi^3: Optimizing Multimodal Single-Objective Continuous Problems in the Multi-Objective Space by Means of Multiobjectivization*. In: Proceedings of the 11th International Conference on Evolutionary Multi-Criterion Optimization (EMO), Springer (in press).<br/> [[BibTeX](/bibliographies/aspar2021multi3.bib)] |
+| [C28] | Schaepermeier, L., Grimme, C. & <ins>**Kerschke, P.**</ins> (2021). *To Boldly Show What No One Has Seen Before: A Dashboard for Visualizing Multi-objective Landscapes*. In: Proceedings of the 11th International Conference on Evolutionary Multi-Criterion Optimization (EMO), Springer (in press).<br/> [[BibTeX](/bibliographies/schaepermeier2021boldly.bib)] [[arXiv](https://arxiv.org/abs/2011.14395)]|
+
+
 #### 2020
 
 | # | Publication |
 |-----|-----|
-| [C25] | Bossek, J., Casel, K., <ins>**Kerschke, P.**</ins> & Neumann, F. (2020). *The Node Weight Dependent Traveling Salesperson Problem: Approximation Algorithms and Randomized Search Heuristics*. In: Proceedings of the 22nd Annual Conference on Genetic and Evolutionary Computation (GECCO), pp. 1286 – 1294, ACM.<br/> [[Link](https://dl.acm.org/doi/10.1145/3377930.3390243)] [[DOI](https://doi.org/10.1145/3377930.3390243)] [[BibTeX](/bibliographies/seiler2020resilience.bib)] [[arXiv](https://arxiv.org/abs/2002.01070)] |
-| [C24] | Bossek, J., Doerr, C. & <ins>**Kerschke, P.**</ins> (2020). *Initial Design Strategies and their Effects on Sequential Model-Based Optimization: An Exploratory Case Study Based on BBOB*. In: Proceedings of the 22nd Annual Conference on Genetic and Evolutionary Computation (GECCO), pp. 778 – 786, ACM.<br/> [[Link](https://dl.acm.org/doi/10.1145/3377930.3390155)] [[DOI](https://doi.org/10.1145/3377930.3390155)] [[BibTeX](/bibliographies/bossek2020smbo.bib)] [[arXiv](https://arxiv.org/abs/2003.13826)] |
-| [C23] | Bossek, J., Doerr, C., <ins>**Kerschke, P.**</ins>, Neumann, A. & Neumann, F. (2020). *Evolving Sampling Strategies for One-Shot Optimization Tasks*. In: Proceedings of the 16th International Conference on Parallel Problem Solving from Nature (PPSN XVI), pp. 111 - 124, Springer.<br/> [[Link](https://link.springer.com/chapter/10.1007/978-3-030-58112-1_8)] [[DOI](https://doi.org/10.1007/978-3-030-58112-1_8)] [[BibTeX](/bibliographies/bossek2020evolving.bib)] |
-| [C22] | Bossek, <ins>**Kerschke, P.**</ins> & Trautmann, H. (2020). *Anytime Behavior of Inexact TSP Solvers and Perspectives for Automated Algorithm Selection*. In: Proceedings of the IEEE Congress on Evolutionary Computation (CEC), IEEE. (in press)<br/> [[BibTeX](/bibliographies/bossek2020anytime.bib)] [[arXiv](https://arxiv.org/abs/2005.13289)]|
-| [C21] | Schaepermeier, L., Grimme, C. & <ins>**Kerschke, P.**</ins> (2020). *One PLOT to Show Them All: Visualization of Efficient Sets in Multi-Objective Landscapes*. In: Proceedings of the 16th International Conference on Parallel Problem Solving from Nature (PPSN XVI), pp. 154-167, Springer.<br/> [[Link](https://link.springer.com/chapter/10.1007/978-3-030-58115-2_11)] [[DOI](https://doi.org/10.1007/978-3-030-58115-2_11)] [[BibTeX](/bibliographies/schaepermeier2020plot.bib)] [[arXiv](https://arxiv.org/abs/2006.11547)]|
-| [C20] | Seiler, M. V., Pohl, J., Bossek, J., <ins>**Kerschke, P.**</ins> & Trautmann, H. (2020). *Deep Learning as a Competitive Feature-Free Approach for Automated Algorithm Selection on the Traveling Salesperson Problem*. In: Proceedings of the 16th International Conference on Parallel Problem Solving from Nature (PPSN XVI), 48 - 64 Springer.<br/> [[Link](https://link.springer.com/chapter/10.1007/978-3-030-58112-1_4)] [[DOI](https://doi.org/10.1007/978-3-030-58112-1_4)] [[BibTeX](/bibliographies/seiler2020deeplearning.bib)] [[arXiv](https://arxiv.org/abs/2006.15968)] |
-| [C19] | Seiler, M. V., Trautmann, H. & <ins>**Kerschke, P.**</ins> (2020). *Enhancing Resilience of Deep Learning Networks By Means of Transferable Adversaries*. In: Proceedings of the International Joint Conference on Neural Networks (IJCNN), IEEE. (in press)<br/> [[BibTeX](/bibliographies/seiler2020resilience.bib)] [[arXiv](https://arxiv.org/abs/2005.13293)]|
+| [C27] | Bossek, J., Casel, K., <ins>**Kerschke, P.**</ins> & Neumann, F. (2020). *The Node Weight Dependent Traveling Salesperson Problem: Approximation Algorithms and Randomized Search Heuristics*. In: Proceedings of the 22nd Annual Conference on Genetic and Evolutionary Computation (GECCO), pp. 1286 – 1294, ACM.<br/> [[Link](https://dl.acm.org/doi/10.1145/3377930.3390243)] [[DOI](https://doi.org/10.1145/3377930.3390243)] [[BibTeX](/bibliographies/seiler2020resilience.bib)] [[arXiv](https://arxiv.org/abs/2002.01070)] |
+| [C26] | Bossek, J., Doerr, C. & <ins>**Kerschke, P.**</ins> (2020). *Initial Design Strategies and their Effects on Sequential Model-Based Optimization: An Exploratory Case Study Based on BBOB*. In: Proceedings of the 22nd Annual Conference on Genetic and Evolutionary Computation (GECCO), pp. 778 – 786, ACM.<br/> [[Link](https://dl.acm.org/doi/10.1145/3377930.3390155)] [[DOI](https://doi.org/10.1145/3377930.3390155)] [[BibTeX](/bibliographies/bossek2020smbo.bib)] [[arXiv](https://arxiv.org/abs/2003.13826)] |
+| [C25] | Bossek, J., Doerr, C., <ins>**Kerschke, P.**</ins>, Neumann, A. & Neumann, F. (2020). *Evolving Sampling Strategies for One-Shot Optimization Tasks*. In: Proceedings of the 16th International Conference on Parallel Problem Solving from Nature (PPSN XVI), pp. 111 - 124, Springer.<br/> [[Link](https://link.springer.com/chapter/10.1007/978-3-030-58112-1_8)] [[DOI](https://doi.org/10.1007/978-3-030-58112-1_8)] [[BibTeX](/bibliographies/bossek2020evolving.bib)] |
+| [C24] | Bossek, <ins>**Kerschke, P.**</ins> & Trautmann, H. (2020). *Anytime Behavior of Inexact TSP Solvers and Perspectives for Automated Algorithm Selection*. In: Proceedings of the IEEE Congress on Evolutionary Computation (CEC), pp. 1-8, IEEE.<br/> [[Link](https://ieeexplore.ieee.org/document/9185613)] [[DOI](https://doi.org/10.1109/CEC48606.2020.9185613)] [[BibTeX](/bibliographies/bossek2020anytime.bib)] [[arXiv](https://arxiv.org/abs/2005.13289)]|
+| [C23] | Prager, R. P., Trautmann, H., Wang, H., Bäck, T. H. W., & <ins>**Kerschke, P.**</ins> (2020). *Per-Instance Configuration of the Modularized CMA-ES by Means of Classifier Chains and Exploratory Landscape Analysis*. In: Proceedings of the IEEE Symposium Series on Computational Intelligence (SSCI), pp. 996 – 1003, IEEE.<br/> [[Link](https://ieeexplore.ieee.org/document/9308510)] [[DOI](https://doi.org/10.1109/SSCI47803.2020.9308510)] [[BibTeX](/bibliographies/prager2020classifier.bib)] |
+| [C22] | Schaepermeier, L., Grimme, C. & <ins>**Kerschke, P.**</ins> (2020). *One PLOT to Show Them All: Visualization of Efficient Sets in Multi-Objective Landscapes*. In: Proceedings of the 16th International Conference on Parallel Problem Solving from Nature (PPSN XVI), pp. 154-167, Springer.<br/> [[Link](https://link.springer.com/chapter/10.1007/978-3-030-58115-2_11)] [[DOI](https://doi.org/10.1007/978-3-030-58115-2_11)] [[BibTeX](/bibliographies/schaepermeier2020plot.bib)] [[arXiv](https://arxiv.org/abs/2006.11547)]|
+| [C21] | Seiler, M. V., Pohl, J., Bossek, J., <ins>**Kerschke, P.**</ins> & Trautmann, H. (2020). *Deep Learning as a Competitive Feature-Free Approach for Automated Algorithm Selection on the Traveling Salesperson Problem*. In: Proceedings of the 16th International Conference on Parallel Problem Solving from Nature (PPSN XVI), 48 - 64 Springer.<br/> [[Link](https://link.springer.com/chapter/10.1007/978-3-030-58112-1_4)] [[DOI](https://doi.org/10.1007/978-3-030-58112-1_4)] [[BibTeX](/bibliographies/seiler2020deeplearning.bib)] [[arXiv](https://arxiv.org/abs/2006.15968)] |
+| [C20] | Seiler, M. V., Trautmann, H. & <ins>**Kerschke, P.**</ins> (2020). *Enhancing Resilience of Deep Learning Networks By Means of Transferable Adversaries*. In: Proceedings of the International Joint Conference on Neural Networks (IJCNN), pp. 1-8, IEEE.<br/> [[Link](https://ieeexplore.ieee.org/document/9207338)] [[DOI](https://doi.org/10.1109/IJCNN48605.2020.9207338)] [[BibTeX](/bibliographies/seiler2020resilience.bib)] [[arXiv](https://arxiv.org/abs/2005.13293)]|
+| [C19] | Steinhoff, V., <ins>**Kerschke, P.**</ins>, Aspar, P., Trautmann, H., & Grimme, C. (2020). *Multiobjectivization of Local Search: Single-Objective Optimization Benefits From Multi-Objective Gradient Descent*. In: Proceedings of the IEEE Symposium Series on Computational Intelligence (SSCI), pp. 2445 – 2452, IEEE.<br/> [[Link](https://ieeexplore.ieee.org/document/9308259)] [[DOI](https://doi.org/10.1109/SSCI47803.2020.9308259)] [[BibTeX](/bibliographies/steinhoff2020multiobjectivization.bib)] |
 
 
 #### 2019
@@ -82,7 +92,7 @@ For more recent citation numbers, please see my [Google Scholar page](https://sc
 | [C12] | Volz, V., Naujoks, B., <ins>**Kerschke, P.**</ins> & Tusar, T. (2019). *Single- and Multi-Objective Game-Benchmarkfor Evolutionary Algorithms*. In: Proceedings of the 21st Annual Conference on Genetic and Evolutionary Computation (GECCO), pp. 647 - 655, ACM.<br/> [[Link](https://dl.acm.org/citation.cfm?doid=3321707.3321805)] [[DOI](https://doi.org/10.1145/3321707.3321805)] [[BibTeX](/bibliographies/volz2019gbea.bib)] |
 
 
-#### 2018 
+#### 2018
 
 | # | Publication |
 |-----|-----|
@@ -123,11 +133,21 @@ For more recent citation numbers, please see my [Google Scholar page](https://sc
 &nbsp;
 ### Contributed Book Chapters
 
-#### 2019 
+#### 2019
 
 | # | Publication |
 |-----|-----|
 [B01] | <ins>**Kerschke, P.**</ins>, & Trautmann, H. (2019). *Comprehensive Feature-Based Landscape Analysis of Continuous and Constrained Optimization Problems Using the R-Package Flacco*. In: Applications in Statistical Computing - From Music Data Analysis to Industrial Quality Improvement, pp. 93 - 123, Springer.<br/> [[Link](https://www.springer.com/gp/book/9783030251468)] [[BibTeX](/bibliographies/kerschke2019flacco.bib)] [[arXiv](https://arxiv.org/pdf/1708.05258.pdf)] |
+
+
+&nbsp;
+### Technical Reports
+
+#### 2020
+
+| # | Publication |
+|-----|-----|
+[T01] | Bartz-Beielstein, T., Doerr, C., van den Berg, D., Bossek, J., Chandrasekaran, S., Eftimov, T., Fischbach, A., <ins>**Kerschke, P.**</ins>, La Cava, W., López-Ibáñez, M., Malan, K. M., Moore, J. H., Naujoks, B., Orzechowski, P., Volz, V., Wagner, W., & Weise, T. (2020). *Benchmarking in Optimization: Best Practice and Open Issues*. arXiv:2007.03488.<br/> [[Link](https://arxiv.org/abs/2007.03488)] [[BibTeX](/bibliographies/bartzbeielstein2020benchmarking.bib)] [[arXiv](https://arxiv.org/pdf/2007.03488.pdf)] |
 
 
 &nbsp;

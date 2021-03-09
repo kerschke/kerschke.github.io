@@ -22,17 +22,16 @@ window.cookieconsent.initialise({
 
 #### Welcome!
 
-No matter for whatever reason you came across this website in the first place, feel free to stay here for a while and have a look.
+No matter the reason you came across this website in the first place, stay here for a while and have a look.
 
 #### What to expect from this place?
 
-These pages contain a brief description about me (see below) and my research activities -- including a [list of publications](publications), R-packages that I have been contributing to, as well as a selection of [scientific events](events) (conferences, workshops, hackathons, etc.), where I have been involved in the organization.
+These pages contain a brief description about me (see below) and my research activities -- including a [list of publications](publications), R packages that I have contributed to, and a selection of [scientific events](events) (conferences, workshops, hackathons, etc.) in whose organization I have been involved.
 
 
 #### Who am I?
 
-I am a data scientist, who at the same time happens to work as a [postdoctoral researcher](http://erc.is/p/kerschke) in the group of *Information Systems and Statistics* at the University of Münster, Germany.
-Previously, I have received academic degrees in *Data Analysis and Data Management (B.Sc.)* and *Data Science (M.Sc.)* -- both from the Statistics Department of the TU Dortmund University, Germany -- as well as a PhD from the Department of Information Systems at the University of Münster, Germany.
+I am a data scientist working concurrently as a [postdoc](http://erc.is/p/kerschke) in the group for *Data Science: Statistics and Optimization* (formerly known as *Information Systems and Statistics*) at the University of Münster. Previously, I earned academic degrees in *Data Analysis and Data Management (B.Sc.)* and *Data Science (M.Sc.)* -- both at the Department of Statistics at TU Dortmund University -- and a PhD at the Department of Information Systems at the University of Münster.
 
 Moreover, I consider myself an R-enthusiast. That is, I really enjoy to program, optimize, analyze and visualize almost anything with the statistical programming language R.
 

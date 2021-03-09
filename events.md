@@ -13,18 +13,29 @@ paginate: true
 #### Conferences
 - [9th International Conference on Evolutionary Multi-Criterion Optimization (EMO 2017)](http://www.emo2017.org/) in Münster, Germany (Co-Chair Local Organization)
 
+&nbsp;
 
 #### Seminars
 - [Dagstuhl Seminar on "Challenges in Benchmarking Optimization Heuristics" (2021)](https://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=21081) in Schloss Dagstuhl, Wadern, Germany (Co-Organizer)
 
 
+&nbsp;
+
 #### Tutorials
+- [Tutorial on "Exploratory Landscape Analysis"](https://ppsn2020.liacs.leidenuniv.nl/tutorials/) at PPSN XVI in Leiden, The Netherlands (Co-Organizer)
 - [Specialized Tutorial on "Exploratory Landscape Analysis"](https://gecco-2019.sigevo.org/index.html/Tutorials#id_Exploratory%20Landscape%20Analysis) at GECCO 2019 in Prague, Czech Republic (Co-Organizer)
 - [Tutorial on "Exploratory Landscape Analysis"](http://ppsn2018.dei.uc.pt/index.php/tutorials/) at PPSN XV in Coimbra, Portugal (Co-Organizer)
 - [Advanced Tutorial on "Exploratory Landscape Analysis"](http://gecco-2017.sigevo.org/index.html/Tutorials#id_Exploratory%20Landscape%20Analysis) at GECCO 2017 in Berlin, Germany (Co-Organizer)
 
+&nbsp;
 
 #### Workshops
+- [Workshop on "Good Benchmarking Practices for Evolutionary Computation"](https://sites.google.com/view/benchmarking-network/home/activities/gecco-2021-workshop) at GECCO 2021 in Lille, France (Co-Organizer)
+- [Workshop on "Good Benchmarking Practices for Evolutionary Computation"](https://sites.google.com/view/benchmarking-network/home/activities/cec-2021-workshop) at CEC 2021 in Kraków, Poland (Co-Organizer)
+- [Workshop on "(Multimodal) Multi-Objective Optimization: Challenges, Characteristics, and Peculiarities (MMMOO)""](http://www.erc.is/go/mmmoo2020) at PPSN 2020 in Leiden, The Netherlands (Co-Organizer)
+- [Workshop on "Understanding Machine Learning Optimization Problems (UMLOP)"](http://www.erc.is/go/umlop2020) at PPSN 2020 in Leiden, The Netherlands (Co-Organizer)
+- [Workshop on "Good Benchmarking Practices for Evolutionary Computation"](https://sites.google.com/view/benchmarking-network/home/activities/PPSN20) at PPSN 2020 in Leiden, The Netherlands (Co-Organizer)
+- [Workshop on "Good Benchmarking Practices for Evolutionary Computation"](https://sites.google.com/view/benchmarking-network/home/activities/GECCO20) at GECCO 2020 in Cancun, Mexico (Co-Organizer)
 - [Workshop on "Understanding Machine Learning Optimization Problems (UMLOP)"](https://gecco-2019.sigevo.org/index.html/Workshops#id_Understanding%20Machine%20Learning%20Optimization%20Problems%20(UMLOP)) at GECCO 2019 in Prague, Czech Republic (Co-Organizer)
 - [Workshop on "Game-Benchmark for Evolutionary Algorithms (GBEA)"](https://gecco-2019.sigevo.org/index.html/Workshops#id_Game-Benchmark%20for%20Evolutionary%20Algorithms%20(GBEA)) at GECCO 2019 in Prague, Czech Republic (Co-Organizer)
 - [Workshop on "Investigating Optimization Problems from Machine Learning and Data Analysis"](https://sites.google.com/view/optml-ppsn18/home) (2018) at PPSN XV in Coimbra, Portugal (Co-Organizer)
@@ -44,6 +55,7 @@ paginate: true
 
 ### Scientific Collaborations
 
+- [Canberra Artificial Intelligence Summer School (2020)](http://canberraai.net/caiss2020/) (invited speaker) in Canberra, Australia
 - [Lorentz Center Workshop on "Benchmarked: Optimization Meets Machine Learning" (2020)](https://www.lorentzcenter.nl/benchmarked-optimization-meets-machine-learning.html) in Lorentz Center, Leiden, The Netherlands
 - [Dagstuhl Seminar on "Scalability in Multiobjective Optimization" (2020)](https://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=20031) in Schloss Dagstuhl, Wadern, Germany
 - [7th COSEAL Workshop (2019)](http://www.coseal.net/coseal-workshop-2019/) in Potsdam, Germany
