@@ -4,4 +4,4 @@ gemspec
 #gem "jekyll-theme-basically-basic"
 #gem "basically-basic", :path => "_sass/basically-basic"
 gem "jekyll-remote-theme"
-gem 'jekyll-twitter-plugin'
+#gem 'jekyll-twitter-plugin' # optional plugin for twitter timeline

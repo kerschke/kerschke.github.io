@@ -71,7 +71,7 @@ plugins: # previously gems
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-remote-theme
-  - jekyll-twitter-plugin
+  #- jekyll-twitter-plugin ## optional plugin for twitter-timeline
 
 # Jekyll Feed
 #feed:
