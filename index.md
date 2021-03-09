@@ -43,16 +43,50 @@ If you are now wondering what a *data scientist* actually is (and does), let me 
 
 #### Research Topics
 
-Of course, data science is of high importance and interest for several applications and unfortunately, I do not have the time to perform research in all of them. Instead, I decided to focus on a subset of topics that I found of particular interest (in alphabetical order):
+Of course, data science is of high importance and interest for several applications. However, unfortunately, I do not have the time to perform research in all of these fields, but instead decided to focus on a subset of topics that I currently find of particular interest (in alphabetical order). Those topics are basically on the intersection of optimization and machine learning:
 
-- Automated Algorithm Selection
-- Benchmarking
-- (Black-Box) Continuous Optimization
-- Data Science
-- Discrete Optimization (mainly TSP)
-- Evolutionary Computation
-- Exploratory Landscape Analysis
-- Machine Learning
-- Multi-Objective Optimization
+##### Automated Algorithm Selection and Configuration
+
+<ul>
+  <li>Understanding and Characterization of Problems:</li>
+  <ul>
+  <li>Exploratory Landscape Analysis<br>
+  (Characterization via Scalable Features)</li>
+  <li>(Interactive) Problem Visualization</li>
+  </ul>
+  <li>Optimization Domains:</li>
+  <ul>
+  <li>Continuous (Black-Box) Optimization</li>
+  <li>Discrete Optimization (mainly TSP)</li>
+  </ul>
+  <li>Performance Assessment and Benchmarking of Algorithms</li>
+  <li>Feature Selection and Algorithm Configuration</li>
+</ul>
+
+
+##### Multi-Objective Continuous Optimization
+
+<ul>
+  <li>Visualization of Multi-Objective Landscapes</li>
+  <li>Development of Landscape Features</li>
+  <li>Landscape-Aware Algorithm Design</li>
+  <li>Implications for Single-Objective Optimization<br>
+  (Multi-Objectivization)</li>
+  <li>Multi-Objective Performance Assessment</li>
+</ul>
+
+
+##### Further Topics of Interest and/or Perspective Research Avenues
+
+<ul>
+  <li>Automated Machine Learning</li>
+  <li>Benchmarking</li>
+  <li>(Large-Scale) Data Analytics</li>
+  <li>Dynamic Algorithm Selection and/or Configuration</li>
+  <li>Evolutionary Computation</li>
+  <li>Interpretable Machine Learning / Explainable AI<br>
+  (Trustworthiness of AI / ML Methods)</li>
+</ul>
+
 
 <!--- For further details on my [research activities](research), please have a look at the respective pages. --->
