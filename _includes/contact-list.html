@@ -43,8 +43,15 @@
   
   <li>
     {% if site.plugins contains 'jekyll-twitter-plugin' or site.gems contains 'jekyll-twitter-plugin' %}
+      <!--
       <div class='jekyll-twitter-plugin' align="center">
         {% twitter https://twitter.com/kerschkepascal maxwidth=300 limit=3 %}
+      </div>
+      -->
+      <div class='jekyll-twitter-plugin' align="center">
+        <div class='jekyll-twitter-plugin'><a class="twitter-timeline" data-width="300" data-tweet-limit="3" href="https://twitter.com/KerschkePascal?ref_src=twsrc%5Etfw">Tweets by KerschkePascal</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
       </div>
     {% endif %} 
   </li>
