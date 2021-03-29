@@ -53,10 +53,9 @@ GEM
       jekyll (>= 3.3, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-twitter-plugin (2.1.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    kramdown (2.3.0)
+    kramdown (2.3.1)
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
@@ -89,7 +88,6 @@ DEPENDENCIES
   bundler (~> 1.15)
   jekyll-remote-theme
   jekyll-theme-basically-basic!
-  jekyll-twitter-plugin
   rake (>= 12.3.3)
 
 BUNDLED WITH
